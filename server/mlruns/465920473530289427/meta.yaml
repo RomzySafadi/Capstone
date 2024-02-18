@@ -1,0 +1,6 @@
+artifact_location: file:///content/mlruns/465920473530289427
+creation_time: 1707076307829
+experiment_id: '465920473530289427'
+last_update_time: 1707076307829
+lifecycle_stage: active
+name: automl-insurance

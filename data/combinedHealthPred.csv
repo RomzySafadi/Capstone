@@ -1,0 +1,1339 @@
+id,Gender,Age,Driving_License,Region_Code,Previously_Insured,Vehicle_Age,Vehicle_Damage,Annual_Premium,Policy_Sales_Channel,Vintage,Response,bmi,children,smoker,region,expenses
+1,Male,44,1,28,0,> 2 Years,Yes,40454,26,217,1,27.9,0,yes,southwest,16884.92
+2,Male,76,1,3,0,1-2 Year,No,33536,26,183,0,33.8,1,no,southeast,1725.55
+3,Male,47,1,28,0,> 2 Years,Yes,38294,26,27,1,33,3,no,southeast,4449.46
+4,Male,21,1,11,1,< 1 Year,No,28619,152,203,0,22.7,0,no,northwest,21984.47
+5,Female,29,1,41,1,< 1 Year,No,27496,152,39,0,28.9,0,no,northwest,3866.86
+6,Female,24,1,33,0,< 1 Year,Yes,2630,160,176,0,25.7,0,no,southeast,3756.62
+7,Male,23,1,11,0,< 1 Year,Yes,23367,152,249,0,33.4,1,no,southeast,8240.59
+8,Female,56,1,28,0,1-2 Year,Yes,32031,26,72,1,27.7,3,no,northwest,7281.51
+9,Female,24,1,3,1,< 1 Year,No,27619,152,28,0,29.8,2,no,northeast,6406.41
+10,Female,32,1,6,1,< 1 Year,No,28771,152,80,0,25.8,0,no,northwest,28923.14
+11,Female,47,1,35,0,1-2 Year,Yes,47576,124,46,1,26.2,0,no,northeast,2721.32
+12,Female,24,1,50,1,< 1 Year,No,48699,152,289,0,26.3,0,yes,southeast,27808.73
+13,Female,41,1,15,1,1-2 Year,No,31409,14,221,0,34.4,0,no,southwest,1826.84
+14,Male,76,1,28,0,1-2 Year,Yes,36770,13,15,0,39.8,0,no,southeast,11090.72
+15,Male,71,1,28,1,1-2 Year,No,46818,30,58,0,42.1,0,yes,southeast,39611.76
+16,Male,37,1,6,0,1-2 Year,Yes,2630,156,147,1,24.6,1,no,southwest,1837.24
+17,Female,25,1,45,0,< 1 Year,Yes,26218,160,256,0,30.8,1,no,northeast,10797.34
+18,Female,25,1,35,1,< 1 Year,No,46622,152,299,0,23.8,0,no,northeast,2395.17
+19,Male,42,1,28,0,1-2 Year,Yes,33667,124,158,0,40.3,0,no,southwest,10602.39
+20,Female,60,1,33,0,1-2 Year,Yes,32363,124,102,1,35.3,0,yes,southwest,36837.47
+21,Male,65,1,28,0,1-2 Year,Yes,41184,124,116,0,36,0,no,northeast,13228.85
+22,Male,49,1,28,0,1-2 Year,Yes,50791,124,177,0,32.4,1,no,southwest,4149.74
+23,Male,23,1,50,1,< 1 Year,No,45283,152,232,0,34.1,0,no,southeast,1137.01
+24,Male,44,1,28,0,1-2 Year,Yes,41852,163,60,0,31.9,1,yes,northeast,37701.88
+25,Male,34,1,15,1,1-2 Year,No,38111,152,180,0,28,2,no,northwest,6203.9
+26,Female,21,1,28,1,< 1 Year,No,61964,152,72,0,27.7,3,no,southeast,14001.13
+27,Female,51,1,28,0,1-2 Year,Yes,38341,124,49,1,23.1,0,no,northeast,14451.84
+28,Male,26,1,6,1,< 1 Year,No,19135,152,57,0,32.8,2,no,northwest,12268.63
+29,Female,25,1,8,1,< 1 Year,No,27946,152,223,0,17.4,1,no,northwest,2775.19
+30,Male,57,1,11,0,1-2 Year,Yes,25679,157,232,1,36.3,2,yes,southwest,38711
+31,Female,26,1,8,0,< 1 Year,No,2630,160,136,0,35.6,0,yes,southwest,35585.58
+32,Male,79,1,28,0,1-2 Year,Yes,57444,26,222,0,26.3,0,no,northeast,2198.19
+33,Female,48,1,28,0,1-2 Year,Yes,36951,122,149,0,28.6,5,no,southwest,4687.8
+34,Female,24,1,36,0,< 1 Year,Yes,43129,152,49,0,28.3,0,no,northwest,13770.1
+35,Female,32,1,30,1,< 1 Year,No,27638,152,169,0,36.4,1,yes,southwest,51194.56
+36,Male,41,1,36,1,1-2 Year,No,30039,124,88,0,20.4,0,no,northwest,1625.43
+37,Male,71,1,8,1,1-2 Year,No,40903,19,253,0,33,3,no,northwest,15612.19
+38,Female,25,1,28,1,< 1 Year,No,76251,152,107,0,20.8,0,no,southwest,2302.3
+39,Male,45,1,8,0,1-2 Year,Yes,42297,124,264,0,36.7,1,yes,northeast,39774.28
+40,Male,72,1,41,1,1-2 Year,No,32210,152,233,0,39.9,0,yes,southwest,48173.36
+41,Male,30,1,30,0,< 1 Year,Yes,24550,124,45,0,26.6,0,no,northeast,3046.06
+42,Female,54,1,28,0,1-2 Year,No,38560,122,184,0,36.6,2,no,southeast,4949.76
+43,Male,27,1,41,0,< 1 Year,No,21078,152,251,0,21.8,1,no,southeast,6272.48
+44,Female,38,1,35,1,1-2 Year,No,2630,152,153,0,30.8,2,no,southeast,6313.76
+45,Female,26,1,30,1,< 1 Year,No,31136,152,186,0,37.1,1,no,northeast,6079.67
+46,Male,56,1,28,0,1-2 Year,Yes,34617,124,71,0,37.3,0,no,southwest,20630.28
+47,Female,29,1,15,1,< 1 Year,No,32923,152,34,0,38.7,2,no,northeast,3393.36
+48,Male,51,1,26,1,1-2 Year,No,33761,22,83,0,34.8,0,no,northwest,3556.92
+49,Female,25,1,15,0,< 1 Year,No,38667,152,12,0,24.5,0,no,southeast,12629.9
+50,Male,48,1,3,0,1-2 Year,No,38233,124,246,0,35.2,1,yes,southeast,38709.18
+51,Female,22,1,50,0,< 1 Year,No,15052,152,141,0,35.6,0,no,northeast,2211.13
+52,Male,22,1,16,0,< 1 Year,Yes,30673,152,216,0,33.6,2,no,northwest,3579.83
+53,Female,49,1,3,1,1-2 Year,No,25553,152,130,0,28,1,yes,southwest,23568.27
+54,Male,78,1,41,1,1-2 Year,No,49491,26,282,0,34.4,0,yes,southeast,37742.58
+55,Female,44,1,28,0,1-2 Year,Yes,45415,13,73,0,28.7,3,no,northwest,8059.68
+56,Female,20,1,47,0,< 1 Year,Yes,25380,160,171,0,37,2,yes,northwest,47496.49
+57,Male,39,1,28,0,1-2 Year,Yes,57582,26,141,0,31.8,2,no,northeast,13607.37
+58,Male,54,1,28,0,1-2 Year,Yes,25205,26,283,1,31.7,2,yes,southeast,34303.17
+59,Female,62,1,48,0,1-2 Year,Yes,2630,15,295,0,22.9,1,yes,southeast,23244.79
+60,Male,29,1,3,1,< 1 Year,No,35463,152,165,0,37.3,2,no,northwest,5989.52
+61,Male,49,1,8,0,1-2 Year,Yes,2630,156,30,0,27.4,3,no,northeast,8606.22
+62,Female,20,1,50,0,< 1 Year,Yes,36615,160,218,0,33.7,4,no,southeast,4504.66
+63,Female,62,1,28,0,> 2 Years,Yes,33830,26,130,0,24.7,1,no,northwest,30166.62
+64,Male,58,1,19,1,1-2 Year,No,39661,26,141,0,25.9,1,no,northwest,4133.64
+65,Male,39,1,15,0,1-2 Year,Yes,37849,124,22,0,22.4,0,yes,northwest,14711.74
+66,Female,59,1,30,0,1-2 Year,Yes,34426,26,147,0,28.9,0,no,southwest,1743.21
+67,Male,41,1,28,0,1-2 Year,Yes,42268,154,36,0,39.1,2,no,southwest,14235.07
+68,Male,60,1,28,0,1-2 Year,Yes,66338,124,73,0,26.3,1,no,northwest,6389.38
+69,Male,63,1,28,1,1-2 Year,No,61739,124,79,0,36.2,0,no,southeast,5920.1
+70,Female,50,1,41,0,1-2 Year,Yes,2630,26,81,1,24,3,yes,southeast,17663.14
+71,Male,44,1,47,0,1-2 Year,Yes,46481,16,100,0,24.8,0,yes,southeast,16577.78
+72,Female,27,1,11,0,< 1 Year,Yes,34587,26,63,0,28.5,5,no,northeast,6799.46
+73,Female,23,1,39,1,< 1 Year,No,40372,152,242,0,28.1,3,no,southwest,11741.73
+74,Male,50,1,28,1,1-2 Year,No,27784,26,277,0,32,1,no,southeast,11946.63
+75,Male,59,1,23,0,1-2 Year,No,27865,124,39,0,27.4,2,no,southwest,7726.85
+76,Female,59,1,26,1,1-2 Year,No,35649,122,136,0,34,0,no,northwest,11356.66
+77,Male,67,1,28,1,1-2 Year,No,31993,122,61,0,29.6,1,no,southeast,3947.41
+78,Female,27,1,33,1,< 1 Year,No,35512,152,111,0,35.5,0,no,southeast,1532.47
+79,Male,29,1,28,0,1-2 Year,Yes,42567,26,167,1,39.8,0,no,northeast,2755.02
+80,Male,77,1,37,1,1-2 Year,No,40651,124,183,0,33,0,no,northwest,6571.02
+81,Male,54,1,26,0,1-2 Year,Yes,35493,22,74,0,26.9,1,no,northeast,4441.21
+82,Female,28,1,28,1,< 1 Year,No,38529,152,235,0,38.3,0,no,northeast,7935.29
+83,Female,39,1,8,1,1-2 Year,No,34735,152,131,0,37.6,1,yes,southeast,37165.16
+84,Female,39,1,5,0,1-2 Year,Yes,31760,26,141,0,41.2,4,no,northwest,11033.66
+85,Male,69,1,28,0,1-2 Year,Yes,29802,122,158,0,34.8,2,yes,southwest,39836.52
+86,Female,21,1,17,0,< 1 Year,Yes,27756,160,243,0,22.9,2,yes,northwest,21098.55
+87,Female,54,1,47,0,> 2 Years,Yes,32873,26,248,0,31.2,0,yes,northwest,43578.94
+88,Male,25,1,23,0,< 1 Year,Yes,23537,152,58,0,27.2,0,no,southwest,11073.18
+89,Female,23,1,35,1,< 1 Year,No,27606,160,114,0,27.7,0,no,northwest,8026.67
+90,Female,20,1,36,0,< 1 Year,Yes,46275,160,281,1,27,0,no,northwest,11082.58
+91,Female,25,1,50,1,< 1 Year,No,31556,152,62,0,39.5,0,no,southeast,2026.97
+92,Female,26,1,30,1,< 1 Year,No,31791,152,189,0,24.8,1,no,northwest,10942.13
+93,Male,77,1,28,0,1-2 Year,Yes,36099,124,139,0,29.8,3,yes,northeast,30184.94
+94,Female,28,1,41,0,1-2 Year,No,2630,156,138,0,34.8,2,no,northwest,5729.01
+95,Female,23,1,15,0,< 1 Year,Yes,41641,152,209,0,31.3,2,yes,southwest,47291.06
+96,Female,23,1,30,0,< 1 Year,No,26689,152,254,0,37.6,1,no,southeast,3766.88
+97,Male,50,1,28,0,1-2 Year,Yes,46995,52,291,0,30.8,3,no,southwest,12105.32
+98,Female,62,1,28,0,> 2 Years,Yes,41892,155,114,0,38.3,0,no,southeast,10226.28
+99,Female,21,1,2,0,< 1 Year,Yes,34274,152,79,0,20,0,yes,northeast,22412.65
+100,Female,24,1,7,1,< 1 Year,Yes,2630,160,68,0,19.3,0,yes,southwest,15820.7
+101,Male,52,1,28,1,1-2 Year,No,36033,26,92,0,31.6,0,no,southwest,6186.13
+102,Male,24,1,3,1,< 1 Year,No,28139,152,52,0,25.5,0,no,northeast,3645.09
+103,Female,20,1,30,0,< 1 Year,Yes,33227,160,78,0,30.1,0,no,northeast,21344.85
+104,Female,22,1,8,1,< 1 Year,No,39816,152,156,0,29.9,3,yes,southeast,30942.19
+105,Male,29,1,41,1,< 1 Year,Yes,43046,163,222,0,27.5,1,no,southwest,5003.85
+106,Female,44,1,28,0,1-2 Year,Yes,50521,26,22,1,28,1,yes,northwest,17560.38
+107,Female,23,1,41,1,< 1 Year,No,36674,152,158,0,28.4,1,no,southwest,2331.52
+108,Male,31,1,29,0,1-2 Year,Yes,28867,124,247,0,30.9,2,no,northwest,3877.3
+109,Male,72,1,46,1,1-2 Year,Yes,28698,30,216,0,27.9,0,no,southeast,2867.12
+110,Male,45,1,35,0,1-2 Year,Yes,2630,124,275,0,35.1,0,yes,southeast,47055.53
+111,Male,27,1,8,1,< 1 Year,No,31428,122,77,0,33.6,1,no,northwest,10825.25
+112,Female,48,1,46,0,> 2 Years,Yes,37379,11,139,0,29.7,2,no,southwest,11881.36
+113,Female,33,1,30,1,< 1 Year,No,24998,152,181,0,30.8,0,no,southwest,4646.76
+114,Male,50,1,30,0,1-2 Year,Yes,34271,26,229,1,35.7,0,no,northwest,2404.73
+115,Female,28,1,30,1,< 1 Year,No,32830,152,275,0,32.2,3,no,northeast,11488.32
+116,Female,32,1,46,0,1-2 Year,Yes,34810,26,166,0,28.6,0,no,northeast,30260
+117,Male,69,1,46,0,1-2 Year,Yes,2630,11,16,0,49.1,0,no,southeast,11381.33
+118,Female,32,1,27,1,< 1 Year,No,22838,151,295,0,27.9,1,yes,southeast,19107.78
+119,Female,23,1,29,1,< 1 Year,No,37983,152,23,0,27.2,0,no,southeast,8601.33
+120,Female,23,1,25,0,< 1 Year,No,2630,152,149,0,23.4,2,no,northwest,6686.43
+121,Male,39,1,3,0,1-2 Year,Yes,37239,26,216,1,37.1,2,no,southwest,7740.34
+122,Female,39,1,28,1,1-2 Year,No,37243,124,31,0,23.8,0,no,northeast,1705.62
+123,Male,37,1,13,0,1-2 Year,Yes,30440,124,293,0,29,0,no,northwest,2257.48
+124,Male,34,1,18,0,1-2 Year,Yes,38232,124,156,1,31.4,1,yes,northeast,39556.49
+125,Male,23,1,15,1,< 1 Year,No,25605,160,256,0,33.9,3,no,northwest,10115.01
+126,Male,49,1,28,0,1-2 Year,Yes,2630,124,88,0,28.8,0,no,northeast,3385.4
+127,Male,23,1,41,1,< 1 Year,No,33307,152,147,0,28.3,0,yes,southwest,17081.08
+128,Female,22,1,25,0,< 1 Year,Yes,23955,160,22,0,37.4,0,no,southwest,9634.54
+129,Female,22,1,20,0,< 1 Year,Yes,2630,152,219,0,17.8,2,yes,northwest,32734.19
+130,Female,27,1,41,1,< 1 Year,No,22371,152,50,0,34.7,2,no,southwest,6082.41
+131,Male,50,1,28,0,1-2 Year,Yes,57389,26,155,1,26.5,0,no,northeast,12815.44
+132,Female,27,1,28,1,< 1 Year,No,30005,152,92,0,22,0,no,northeast,13616.36
+133,Male,28,1,37,1,< 1 Year,No,32600,152,131,0,35.9,2,no,southwest,11163.57
+134,Female,25,1,49,1,< 1 Year,No,31680,152,66,0,25.6,0,no,northwest,1632.56
+135,Female,27,1,8,1,< 1 Year,No,40651,152,260,0,28.8,0,no,northeast,2457.21
+136,Female,43,1,41,0,1-2 Year,Yes,2630,26,19,1,28.1,0,no,southeast,2155.68
+137,Female,59,1,39,0,1-2 Year,Yes,32775,124,158,0,34.1,0,no,southwest,1261.44
+138,Female,23,1,36,0,< 1 Year,Yes,33638,160,22,0,25.2,0,no,northwest,2045.69
+139,Male,36,1,28,1,1-2 Year,No,2630,26,258,0,31.9,3,no,southeast,27322.73
+140,Male,21,1,29,1,< 1 Year,No,62164,152,116,0,36,0,no,southwest,2166.73
+141,Female,21,1,46,1,< 1 Year,No,27528,160,117,0,22.4,2,no,northeast,27375.9
+142,Female,47,1,41,1,1-2 Year,No,42080,124,62,0,32.5,1,no,northeast,3490.55
+143,Male,25,1,28,1,< 1 Year,No,36202,152,193,0,25.3,2,yes,southeast,18972.5
+144,Female,32,1,46,0,1-2 Year,Yes,27320,156,204,0,29.7,2,no,northwest,18157.88
+145,Male,21,1,3,1,< 1 Year,No,40511,160,212,0,28.7,3,yes,northwest,20745.99
+146,Male,23,1,28,0,< 1 Year,Yes,56589,152,144,0,38.8,3,no,southeast,5138.26
+147,Female,27,1,30,1,< 1 Year,No,33780,152,246,0,30.5,3,yes,northwest,40720.55
+148,Male,20,1,39,1,< 1 Year,No,28329,160,78,0,37.7,1,no,southeast,9877.61
+149,Female,38,1,28,0,1-2 Year,Yes,34471,124,234,1,37.4,1,no,northwest,10959.69
+150,Female,22,1,11,1,< 1 Year,No,76651,152,258,0,28.4,1,no,southwest,1842.52
+151,Male,25,1,8,0,< 1 Year,Yes,54385,152,206,0,24.1,1,no,northwest,5125.22
+152,Male,27,1,28,0,< 1 Year,Yes,26732,152,282,0,29.7,0,no,southeast,7789.64
+153,Male,51,1,19,0,1-2 Year,Yes,2630,124,228,0,37.1,3,no,northeast,6334.34
+154,Male,53,1,28,1,1-2 Year,No,40397,122,156,0,23.4,0,yes,northeast,19964.75
+155,Female,24,1,22,1,< 1 Year,No,34591,152,125,0,25.5,1,no,northeast,7077.19
+156,Female,49,1,28,0,1-2 Year,Yes,32771,154,29,0,39.5,0,no,northwest,6948.7
+157,Female,41,1,28,0,1-2 Year,Yes,54740,124,212,1,24.4,0,yes,southeast,21223.68
+158,Male,41,1,35,0,1-2 Year,Yes,25112,154,221,0,25.2,0,yes,northeast,15518.18
+159,Female,23,1,47,0,< 1 Year,Yes,28737,152,18,0,35.5,0,yes,southeast,36950.26
+160,Female,31,1,15,1,< 1 Year,No,25908,152,84,0,27.8,3,no,southeast,19749.38
+161,Male,20,1,3,1,< 1 Year,No,41914,160,206,0,26.6,0,yes,northwest,21348.71
+162,Male,70,1,25,1,1-2 Year,No,2630,124,230,0,36.9,0,yes,southeast,36149.48
+163,Male,78,1,28,1,1-2 Year,No,42462,26,54,0,39.6,1,no,southwest,10450.55
+164,Female,31,1,28,1,1-2 Year,No,29395,26,123,0,29.8,2,no,southwest,5152.13
+165,Female,48,1,36,1,1-2 Year,No,2630,124,189,0,29.6,0,no,northwest,5028.15
+166,Male,25,1,30,1,< 1 Year,No,29396,152,22,0,28.2,4,no,northeast,10407.09
+167,Female,28,1,44,0,1-2 Year,Yes,37570,156,258,1,37,5,no,southwest,4830.63
+168,Female,26,1,8,0,< 1 Year,Yes,89282,152,101,0,33.2,3,no,northwest,6128.8
+169,Female,60,1,28,1,1-2 Year,No,30386,26,114,0,31.8,1,no,northwest,2719.28
+170,Female,28,1,8,1,< 1 Year,No,31454,152,86,0,18.9,3,no,northeast,4827.9
+171,Male,23,1,36,1,< 1 Year,No,52462,152,243,0,41.5,0,no,southeast,13405.39
+172,Male,22,1,36,1,< 1 Year,No,36352,152,13,0,30.3,0,no,southwest,8116.68
+173,Female,50,1,28,0,1-2 Year,Yes,36282,26,237,0,16,0,no,northeast,1694.8
+174,Female,33,1,36,1,< 1 Year,No,40899,152,85,0,34.8,1,no,southwest,5246.05
+175,Male,24,1,35,1,< 1 Year,No,23540,152,98,0,33.3,0,no,northwest,2855.44
+176,Female,22,1,36,1,< 1 Year,No,34527,152,67,0,37.7,0,yes,southwest,48824.45
+177,Male,25,1,28,1,< 1 Year,No,101021,152,49,0,27.8,2,no,northwest,6455.86
+178,Male,60,1,45,0,1-2 Year,No,42888,124,229,0,29.2,1,no,southwest,10436.1
+179,Male,46,1,28,0,1-2 Year,Yes,60478,26,128,1,28.9,2,no,southwest,8823.28
+180,Female,45,1,46,0,1-2 Year,Yes,22689,26,95,0,33.2,3,no,northeast,8538.29
+181,Male,30,1,28,1,1-2 Year,No,40167,125,264,0,28.6,0,no,northwest,11735.88
+182,Male,52,1,0,0,1-2 Year,Yes,2630,124,89,0,38.3,0,no,southeast,1631.82
+183,Male,47,1,15,1,1-2 Year,No,29306,14,99,0,20,3,no,northeast,4005.42
+184,Male,59,1,41,1,1-2 Year,No,28821,26,29,0,26.4,0,no,northwest,7419.48
+185,Female,51,1,28,0,1-2 Year,Yes,57008,26,208,0,30.7,2,no,southeast,7731.43
+186,Male,52,1,0,1,1-2 Year,No,2630,26,134,0,41.9,3,yes,northeast,43753.34
+187,Male,48,1,8,0,> 2 Years,Yes,44021,124,135,0,29.9,2,no,southeast,3981.98
+188,Male,42,1,37,0,1-2 Year,Yes,36532,124,268,0,30.9,3,no,southwest,5325.65
+189,Female,45,1,28,0,1-2 Year,Yes,25604,26,85,0,32.2,1,no,southwest,6775.96
+190,Female,27,1,11,1,1-2 Year,No,26756,124,254,0,32.1,2,no,northwest,4922.92
+191,Female,28,1,8,1,< 1 Year,No,37731,152,30,0,31.6,0,no,southeast,12557.61
+192,Female,24,1,16,1,< 1 Year,No,28190,152,284,0,26.2,0,no,southwest,4883.87
+193,Male,32,1,46,1,< 1 Year,No,23847,152,183,0,25.7,0,no,southeast,2137.65
+194,Male,21,1,47,0,< 1 Year,No,37028,160,119,0,26.6,1,no,northwest,12044.34
+195,Male,39,1,28,1,1-2 Year,No,29468,26,166,0,34.4,0,no,southeast,1137.47
+196,Male,55,1,30,1,1-2 Year,No,29215,26,226,0,30.6,0,no,northwest,1639.56
+197,Female,56,1,15,0,1-2 Year,No,29132,154,229,0,32.8,0,no,southwest,5649.72
+198,Male,42,1,3,0,1-2 Year,Yes,32293,124,105,1,28.6,2,no,southeast,8516.83
+199,Female,26,1,26,1,< 1 Year,No,2630,152,142,0,18.1,0,no,northwest,9644.25
+200,Female,42,1,28,0,1-2 Year,Yes,40613,124,242,0,39.3,0,no,northeast,14901.52
+201,Male,55,1,28,0,1-2 Year,Yes,49470,124,203,0,32.1,0,no,northwest,2130.68
+202,Female,41,1,28,0,1-2 Year,Yes,22561,124,207,1,32.2,1,no,southeast,8871.15
+203,Male,22,1,11,1,< 1 Year,No,21126,152,272,0,24,0,no,northwest,13012.21
+204,Male,42,1,8,0,1-2 Year,No,24224,154,66,0,36.1,0,yes,southeast,37133.9
+205,Female,30,1,28,0,< 1 Year,Yes,39104,122,263,1,22.3,0,no,southwest,7147.11
+206,Male,21,1,30,0,< 1 Year,Yes,26720,160,64,0,28.9,1,no,northeast,4337.74
+207,Female,23,1,46,1,< 1 Year,No,18682,152,57,0,26.4,0,no,southeast,11743.3
+208,Female,21,1,6,0,< 1 Year,Yes,19196,152,40,0,27.7,2,yes,northeast,20984.09
+209,Male,24,1,6,1,< 1 Year,No,18576,151,245,0,31.8,0,no,southwest,13880.95
+210,Male,26,1,37,0,< 1 Year,Yes,57159,160,163,0,41.2,1,no,northeast,6610.11
+211,Female,48,1,28,1,1-2 Year,No,35945,124,24,0,33,1,no,southwest,1980.07
+212,Male,45,1,28,0,1-2 Year,Yes,33205,26,243,0,30.9,4,no,northwest,8162.72
+213,Male,44,1,28,0,> 2 Years,Yes,42754,124,23,1,28.5,2,no,northwest,3537.7
+214,Male,42,1,45,0,1-2 Year,No,28759,25,102,0,26.7,1,no,southeast,5002.78
+215,Male,44,1,2,0,1-2 Year,No,34618,26,265,0,30.9,2,no,southwest,8520.03
+216,Female,25,1,9,0,< 1 Year,No,34280,160,202,0,37.1,2,no,southwest,7371.77
+217,Female,60,1,28,0,> 2 Years,Yes,65472,26,36,0,26.6,0,no,northwest,10355.64
+218,Female,21,1,46,0,< 1 Year,Yes,33245,152,259,0,23.1,0,no,southeast,2483.74
+219,Male,22,1,15,0,< 1 Year,Yes,32252,160,100,0,29.9,1,no,southeast,3392.98
+220,Male,23,1,41,1,< 1 Year,No,26285,152,91,0,23.2,0,no,southeast,25081.77
+221,Female,44,1,28,1,1-2 Year,No,2630,124,114,0,33.7,1,no,southwest,5012.47
+222,Male,40,1,20,0,1-2 Year,Yes,2630,26,204,0,33.3,0,no,northeast,10564.88
+223,Male,21,1,27,1,< 1 Year,No,45006,160,106,0,30.8,3,no,southwest,5253.52
+224,Female,61,1,28,0,> 2 Years,Yes,2630,157,190,1,34.8,0,yes,southwest,34779.62
+225,Male,75,1,28,0,> 2 Years,Yes,40765,124,162,0,24.6,0,yes,southeast,19515.54
+226,Female,53,1,28,1,1-2 Year,No,44313,61,33,0,33.9,3,no,southeast,11987.17
+227,Male,37,1,8,1,1-2 Year,No,29099,152,194,0,38.1,0,no,southeast,2689.5
+228,Male,29,1,28,1,< 1 Year,No,44742,152,85,0,41.9,0,no,southeast,24227.34
+229,Male,32,1,50,0,< 1 Year,No,2630,1,287,0,31.6,1,no,northeast,7358.18
+230,Female,64,1,28,1,1-2 Year,Yes,41697,26,287,0,25.5,2,no,northeast,9225.26
+231,Male,42,1,31,0,1-2 Year,Yes,2630,124,181,0,36.2,1,no,northwest,7443.64
+232,Male,24,1,47,0,< 1 Year,Yes,36414,124,292,0,27.8,3,no,southeast,14001.29
+233,Male,53,1,0,0,1-2 Year,Yes,2630,26,69,0,17.8,0,no,southwest,1727.79
+234,Male,62,1,15,0,1-2 Year,No,44679,86,239,0,27.5,1,no,southwest,12333.83
+235,Male,25,1,46,1,< 1 Year,No,39914,152,235,0,24.5,2,no,northwest,6710.19
+236,Male,23,1,39,0,< 1 Year,Yes,29575,152,281,1,22.2,2,yes,southeast,19444.27
+237,Female,48,1,33,0,1-2 Year,Yes,44724,154,132,0,26.7,0,no,southeast,1615.77
+238,Male,28,1,15,1,< 1 Year,No,38339,152,245,0,38.4,2,no,southeast,4463.21
+239,Male,33,1,3,1,1-2 Year,No,27609,152,255,0,29.1,0,yes,northwest,17352.68
+240,Female,63,1,28,0,> 2 Years,Yes,31004,26,281,0,38.1,1,no,southeast,7152.67
+241,Male,22,1,46,1,< 1 Year,No,30745,152,147,0,36.7,2,yes,northeast,38511.63
+242,Male,27,1,3,1,< 1 Year,No,27181,152,125,0,22.1,1,no,northeast,5354.07
+243,Female,36,1,28,0,1-2 Year,Yes,40431,124,230,0,26.8,1,no,southwest,35160.13
+244,Male,49,1,28,0,1-2 Year,Yes,45558,26,49,0,35.3,3,no,southwest,7196.87
+245,Female,39,1,46,0,1-2 Year,No,35145,26,116,0,27.7,0,yes,northeast,29523.17
+246,Female,21,1,11,0,< 1 Year,Yes,35555,152,242,1,30,0,no,northwest,24476.48
+247,Female,57,1,46,0,1-2 Year,Yes,30777,26,158,0,38.1,0,no,southeast,12648.7
+248,Female,43,1,28,0,1-2 Year,Yes,29578,31,203,1,35.9,0,no,southeast,1986.93
+249,Female,25,1,27,0,< 1 Year,No,2630,152,167,0,20.9,1,no,southwest,1832.09
+250,Male,41,1,11,1,1-2 Year,No,35614,26,152,0,29,1,no,northeast,4040.56
+251,Male,33,1,31,1,< 1 Year,No,2630,152,259,0,17.3,2,yes,northeast,12829.46
+252,Male,23,1,12,1,< 1 Year,No,24886,26,111,0,32.2,2,yes,southwest,47305.31
+253,Female,20,1,34,0,< 1 Year,Yes,33247,160,281,0,34.2,2,yes,southeast,44260.75
+254,Male,36,1,28,1,1-2 Year,No,47682,124,121,0,30.3,3,no,southwest,4260.74
+255,Male,21,1,13,1,< 1 Year,No,37710,152,30,0,31.8,0,yes,northeast,41097.16
+256,Female,57,1,28,0,> 2 Years,Yes,2630,26,71,0,25.4,3,no,northeast,13047.33
+257,Male,25,1,28,1,< 1 Year,No,43516,152,150,0,33.6,0,yes,northwest,43921.18
+258,Female,24,1,46,0,< 1 Year,Yes,27141,152,246,0,40.2,0,no,southeast,5400.98
+259,Male,67,1,28,1,1-2 Year,No,31011,122,63,0,24.4,4,no,northwest,11520.1
+260,Male,24,1,13,1,< 1 Year,No,44603,152,207,0,31.9,0,yes,northwest,33750.29
+261,Male,54,1,28,0,1-2 Year,Yes,34367,124,237,1,25.2,0,no,southwest,11837.16
+262,Female,22,1,12,1,< 1 Year,No,29823,152,128,0,26.8,1,yes,southeast,17085.27
+263,Male,45,1,30,1,1-2 Year,No,2630,26,121,0,24.3,3,yes,northeast,24869.84
+264,Male,22,1,36,1,< 1 Year,No,2630,152,60,0,37,0,yes,northwest,36219.41
+265,Male,24,1,28,0,< 1 Year,Yes,21583,152,143,0,38.1,3,no,southeast,20463
+266,Female,22,1,11,1,< 1 Year,No,32234,152,117,0,42.4,3,yes,southeast,46151.12
+267,Male,48,1,28,0,1-2 Year,Yes,42028,26,77,0,19.8,1,yes,southeast,17179.52
+268,Female,28,1,21,1,< 1 Year,No,26106,152,95,0,32.4,3,no,northeast,14590.63
+269,Female,27,1,50,0,< 1 Year,Yes,2630,160,83,0,30.2,1,no,southwest,7441.05
+270,Male,49,1,46,1,1-2 Year,No,2630,30,198,0,25.8,1,no,northeast,9282.48
+271,Male,62,1,8,0,1-2 Year,Yes,47272,26,194,0,29.4,1,no,southeast,1719.44
+272,Male,45,1,28,0,1-2 Year,Yes,42704,26,116,0,34.2,2,yes,southwest,42856.84
+273,Female,60,1,6,0,1-2 Year,Yes,2630,157,143,0,37.1,2,no,northwest,7265.7
+274,Female,20,1,17,0,1-2 Year,No,2630,156,181,0,27.5,1,no,northeast,9617.66
+275,Female,38,1,10,0,1-2 Year,Yes,37039,124,103,0,27.6,0,no,northwest,2523.17
+276,Female,52,1,31,0,1-2 Year,Yes,2630,26,127,0,26.6,2,no,northeast,9715.84
+277,Female,36,1,15,0,1-2 Year,Yes,2630,26,69,1,20.6,2,no,northwest,2803.7
+278,Male,55,1,28,0,> 2 Years,Yes,41246,26,285,0,24.3,0,no,southwest,2150.47
+279,Female,20,1,35,0,< 1 Year,Yes,34281,160,214,0,31.8,2,no,southeast,12928.79
+280,Male,25,1,28,1,< 1 Year,No,47031,26,151,0,21.6,1,no,southeast,9855.13
+281,Male,25,1,39,0,< 1 Year,No,2630,152,217,0,28.1,1,yes,northeast,22331.57
+282,Female,54,1,41,0,1-2 Year,Yes,53581,124,199,1,40.6,3,yes,northeast,48549.18
+283,Female,21,1,14,1,< 1 Year,No,36712,152,56,0,27.6,1,no,northeast,4237.13
+284,Male,40,1,48,0,> 2 Years,Yes,2630,26,86,0,32.4,1,no,northeast,11879.1
+285,Male,36,1,28,0,1-2 Year,Yes,34165,124,143,0,31.2,0,no,southwest,9625.92
+286,Male,42,1,15,0,1-2 Year,Yes,28883,26,66,0,26.6,1,no,southeast,7742.11
+287,Male,24,1,10,1,< 1 Year,No,35443,152,45,0,48.1,2,no,northeast,9432.93
+288,Male,39,1,28,0,1-2 Year,Yes,32807,157,186,0,26.2,0,no,northwest,14256.19
+289,Male,26,1,10,0,< 1 Year,Yes,24115,152,69,0,36.8,1,yes,northeast,47896.79
+290,Male,64,1,8,0,1-2 Year,Yes,2630,124,293,0,26.4,3,no,southeast,25992.82
+291,Female,25,1,47,1,< 1 Year,No,2630,160,299,0,33.4,0,no,southwest,3172.02
+292,Female,22,1,13,1,< 1 Year,No,37093,152,66,0,29.6,1,no,northeast,20277.81
+293,Female,43,1,3,0,1-2 Year,Yes,31020,26,59,1,45.5,2,yes,southeast,42112.24
+294,Female,28,1,6,1,< 1 Year,No,18683,152,215,0,28.8,0,no,southeast,2156.75
+295,Male,22,1,13,1,< 1 Year,No,33413,152,104,0,26.8,3,no,southwest,3906.13
+296,Female,26,1,16,0,< 1 Year,Yes,32232,152,238,0,23,0,no,northeast,1704.57
+297,Female,22,1,46,0,< 1 Year,Yes,31180,152,120,0,27.7,0,yes,southwest,16297.85
+298,Male,60,1,8,0,1-2 Year,Yes,2630,124,21,0,25.4,1,yes,southeast,21978.68
+299,Female,49,1,31,0,1-2 Year,Yes,2630,124,32,1,34.4,3,yes,northwest,38746.36
+300,Male,22,1,21,1,< 1 Year,No,30893,152,29,0,28.9,1,no,northwest,9249.5
+301,Male,21,1,29,1,< 1 Year,No,43798,152,258,0,27.6,3,no,northeast,6746.74
+302,Male,67,1,28,0,1-2 Year,Yes,32653,124,171,0,22.6,3,yes,northeast,24873.38
+303,Female,35,1,28,0,1-2 Year,Yes,41662,150,223,0,37.5,2,no,southeast,12265.51
+304,Female,24,1,33,1,< 1 Year,No,20513,152,270,0,33,2,no,southeast,4349.46
+305,Male,24,1,11,1,< 1 Year,No,27771,152,233,0,38,2,no,southwest,12646.21
+306,Male,24,1,15,1,< 1 Year,No,23267,152,143,0,33.3,2,no,northwest,19442.35
+307,Female,28,1,41,1,< 1 Year,No,37948,152,211,0,27.5,2,no,southwest,20177.67
+308,Female,24,1,30,1,< 1 Year,No,24414,152,149,0,33.3,1,no,southeast,4151.03
+309,Male,71,1,28,0,1-2 Year,Yes,42881,124,105,0,34.9,0,no,northeast,11944.59
+310,Male,26,1,35,1,< 1 Year,No,51047,152,165,0,33.1,2,no,northwest,7749.16
+311,Female,45,1,28,0,> 2 Years,Yes,73929,157,86,0,26.6,0,no,southwest,8444.47
+312,Female,59,1,39,0,1-2 Year,Yes,44630,124,200,0,24.7,0,no,southwest,1737.38
+313,Female,26,1,28,1,< 1 Year,No,44082,152,197,0,36,3,yes,southeast,42124.52
+314,Female,24,1,46,1,< 1 Year,No,21006,152,11,0,35.9,0,no,southeast,8124.41
+315,Male,42,1,8,0,1-2 Year,Yes,35600,124,213,0,31.4,0,yes,southwest,34838.87
+316,Male,20,1,12,0,< 1 Year,Yes,82705,160,49,0,33.3,0,no,northeast,9722.77
+317,Male,54,1,6,1,1-2 Year,No,24515,124,93,0,32.2,0,no,northwest,8835.26
+318,Male,48,1,8,1,1-2 Year,No,41483,124,113,0,32.8,0,no,northeast,10435.07
+319,Male,59,1,41,0,1-2 Year,Yes,2630,156,88,0,27.6,0,no,northwest,7421.19
+320,Male,43,1,5,1,1-2 Year,Yes,2630,124,178,0,37.3,1,no,northeast,4667.61
+321,Female,40,1,29,0,1-2 Year,Yes,2630,157,77,0,25.3,1,no,northwest,4894.75
+322,Male,77,1,50,1,1-2 Year,No,42327,124,10,0,29.6,4,no,northeast,24671.66
+323,Female,22,1,28,0,< 1 Year,Yes,48276,152,290,0,30.8,0,yes,southwest,35491.64
+324,Female,35,1,28,0,1-2 Year,Yes,41029,125,94,0,40.9,0,no,northeast,11566.3
+325,Male,24,1,8,1,< 1 Year,No,35981,152,231,0,27.2,0,no,southwest,2866.09
+326,Female,24,1,33,1,< 1 Year,No,32219,152,45,0,34.1,1,no,northeast,6600.21
+327,Female,26,1,47,1,< 1 Year,No,2630,152,296,0,23.2,1,no,southeast,3561.89
+328,Male,26,1,30,1,< 1 Year,No,2630,152,270,0,36.5,2,yes,northwest,42760.5
+329,Male,39,1,28,0,1-2 Year,Yes,38036,157,10,0,33.8,1,yes,southwest,47928.03
+330,Female,52,1,45,0,1-2 Year,Yes,23918,26,265,0,36.7,0,no,southwest,9144.57
+331,Male,20,1,28,1,< 1 Year,No,31367,160,255,0,36.4,1,yes,northeast,48517.56
+332,Male,69,1,28,0,1-2 Year,Yes,30727,122,47,0,27.4,0,yes,northwest,24393.62
+333,Female,28,1,46,1,< 1 Year,No,41526,160,122,0,31.2,0,no,northwest,13429.04
+334,Male,44,1,28,0,1-2 Year,Yes,30427,124,237,1,28.8,0,no,northeast,11658.38
+335,Female,22,1,8,1,< 1 Year,No,48773,152,217,0,35.7,2,no,northeast,19144.58
+336,Male,20,1,29,1,1-2 Year,No,2630,157,271,0,34.5,0,no,southwest,13822.8
+337,Male,21,1,8,1,< 1 Year,No,27076,160,278,0,25.7,0,no,southeast,12142.58
+338,Male,23,1,18,1,< 1 Year,No,35970,26,16,0,27.6,1,no,northwest,13937.67
+339,Male,36,1,8,0,1-2 Year,Yes,30941,26,249,0,32.3,1,yes,northeast,41919.1
+340,Female,69,1,28,0,1-2 Year,Yes,32400,26,189,1,27.7,1,no,southeast,8232.64
+341,Male,27,1,15,0,< 1 Year,Yes,33845,152,260,0,27.6,0,no,southwest,18955.22
+342,Male,47,1,41,1,1-2 Year,No,36809,26,226,0,30,0,no,northwest,13352.1
+343,Female,49,1,28,0,1-2 Year,Yes,48505,124,271,0,27.6,0,no,northeast,13217.09
+344,Male,25,1,25,1,< 1 Year,No,32856,152,275,0,36.8,0,no,northeast,13981.85
+345,Female,21,1,29,1,< 1 Year,No,29166,152,278,0,41.5,4,no,southeast,10977.21
+346,Male,42,1,38,0,1-2 Year,Yes,34193,156,116,1,29.3,3,no,southeast,6184.3
+347,Male,22,1,37,0,< 1 Year,Yes,38240,152,221,1,35.8,2,no,southeast,4890
+348,Female,42,1,28,0,1-2 Year,Yes,39977,124,276,0,33.3,1,no,northeast,8334.46
+349,Female,31,1,28,0,1-2 Year,Yes,39423,124,190,0,29.9,1,no,southeast,5478.04
+350,Female,60,1,36,1,1-2 Year,Yes,36638,124,33,0,27.8,0,no,northwest,1635.73
+351,Male,46,1,29,0,1-2 Year,Yes,28946,124,64,0,23.2,0,no,northwest,11830.61
+352,Female,23,1,46,1,< 1 Year,No,2630,152,88,0,25.6,0,no,southwest,8932.08
+353,Female,22,1,30,1,< 1 Year,No,18202,152,107,0,27.7,0,no,southwest,3554.2
+354,Male,20,1,8,1,< 1 Year,No,38076,160,79,0,35.2,0,no,northeast,12404.88
+355,Male,57,1,28,0,1-2 Year,Yes,19618,122,96,1,38.3,0,no,southeast,14133.04
+356,Female,29,1,28,1,< 1 Year,No,27715,152,93,0,27.6,0,no,southwest,24603.05
+357,Male,22,1,46,1,< 1 Year,Yes,28311,152,240,0,43.9,3,no,southeast,8944.12
+358,Female,22,1,36,0,< 1 Year,Yes,2630,152,211,0,29.8,3,no,northwest,9620.33
+359,Male,43,1,28,0,1-2 Year,Yes,39495,124,172,1,41.9,0,no,southeast,1837.28
+360,Male,54,1,15,0,1-2 Year,Yes,35116,124,171,1,20.8,0,no,southeast,1607.51
+361,Male,44,1,28,0,1-2 Year,Yes,39450,124,214,0,32.3,2,no,northeast,10043.25
+362,Female,23,1,8,1,< 1 Year,No,42644,152,257,0,30.5,1,no,southwest,4751.07
+363,Female,50,1,28,0,1-2 Year,Yes,68147,30,218,0,21.7,0,yes,southwest,13844.51
+364,Male,50,1,28,1,1-2 Year,No,42024,122,224,0,26.4,1,no,southwest,2597.78
+365,Female,44,1,41,0,1-2 Year,Yes,30875,124,173,0,21.9,2,no,southeast,3180.51
+366,Male,22,1,46,1,< 1 Year,No,25037,152,220,0,30.8,1,no,northeast,9778.35
+367,Male,31,1,24,0,1-2 Year,Yes,2630,156,257,0,32.3,3,no,northeast,13430.27
+368,Female,20,1,12,0,< 1 Year,Yes,2630,160,203,0,25,2,no,northwest,8017.06
+369,Male,52,1,30,1,< 1 Year,No,2630,1,152,0,32,2,no,northwest,8116.27
+370,Male,58,1,28,1,1-2 Year,No,44522,23,94,0,30.4,3,no,northeast,3481.87
+371,Male,59,1,49,0,1-2 Year,Yes,39971,124,143,0,21.1,0,no,northwest,13415.04
+372,Female,25,1,8,1,< 1 Year,No,42307,152,213,0,22.2,0,no,northeast,12029.29
+373,Male,45,1,28,0,> 2 Years,Yes,49145,122,222,1,33.2,1,no,northeast,7639.42
+374,Male,44,1,46,1,1-2 Year,No,50696,26,193,0,32.9,2,yes,southwest,36085.22
+375,Female,38,1,29,0,1-2 Year,Yes,47639,122,169,0,33.3,0,no,southeast,1391.53
+376,Male,38,1,28,0,1-2 Year,Yes,65212,124,32,0,28.3,0,yes,northwest,18033.97
+377,Male,23,1,27,1,< 1 Year,No,26287,160,199,0,24.9,3,yes,northeast,21659.93
+378,Female,78,1,46,1,1-2 Year,No,31616,11,185,0,40.2,0,yes,southeast,38126.25
+379,Male,20,1,35,1,< 1 Year,No,2630,160,81,0,30.1,3,no,northwest,16455.71
+380,Male,25,1,11,0,< 1 Year,No,38081,152,132,0,31.5,1,no,southeast,27000.98
+381,Male,47,1,28,1,1-2 Year,No,31269,124,213,0,18,2,yes,northeast,15006.58
+382,Male,66,1,31,0,> 2 Years,Yes,2630,26,90,0,30.7,0,yes,northeast,42303.69
+383,Female,55,1,28,0,> 2 Years,Yes,49146,26,190,1,33,0,no,southeast,20781.49
+384,Female,24,1,8,0,< 1 Year,Yes,54408,152,86,0,43.3,2,no,southeast,5846.92
+385,Male,26,1,8,1,< 1 Year,No,54203,152,81,0,22.1,2,no,northeast,8302.54
+386,Female,22,1,28,1,< 1 Year,No,38452,26,51,0,34.4,0,no,southwest,1261.86
+387,Female,34,1,28,0,1-2 Year,No,46685,124,205,0,39.1,0,no,southeast,11856.41
+388,Male,66,1,28,0,1-2 Year,No,42644,122,80,0,25.4,2,no,northwest,30284.64
+389,Female,44,1,28,0,1-2 Year,Yes,45485,122,245,0,22.6,0,no,northwest,3176.82
+390,Male,21,1,13,0,< 1 Year,Yes,28733,152,70,0,30.2,3,no,northwest,4618.08
+391,Male,20,1,46,0,< 1 Year,Yes,49211,160,284,0,35.6,4,no,northeast,10736.87
+392,Male,22,1,50,1,< 1 Year,No,36287,152,70,0,37.4,0,no,northwest,2138.07
+393,Female,25,1,37,0,< 1 Year,Yes,2630,152,249,0,31.4,1,no,northeast,8964.06
+394,Female,49,1,29,0,1-2 Year,No,2630,156,265,0,31.4,1,no,northeast,9290.14
+395,Male,50,1,31,0,1-2 Year,Yes,2630,124,237,0,32.3,2,no,northeast,9411.01
+396,Male,75,1,8,1,1-2 Year,No,2630,26,11,0,19.9,0,no,northwest,7526.71
+397,Male,31,1,28,0,< 1 Year,Yes,32883,26,132,0,34.4,3,no,southwest,8522
+398,Male,21,1,28,0,< 1 Year,No,2630,152,186,0,31,0,no,southeast,16586.5
+399,Female,47,1,15,0,1-2 Year,Yes,2630,14,166,0,25.6,2,no,southwest,14988.43
+400,Male,59,1,28,0,1-2 Year,Yes,44233,124,160,1,38.2,0,no,southeast,1631.67
+401,Male,23,1,47,0,< 1 Year,Yes,25080,152,277,1,20.6,0,no,southwest,9264.8
+402,Male,65,1,28,0,1-2 Year,Yes,90789,26,186,1,47.5,1,no,southeast,8083.92
+403,Female,27,1,33,0,< 1 Year,Yes,2630,152,125,0,33,0,no,northwest,14692.67
+404,Male,49,1,28,0,1-2 Year,Yes,37214,26,158,1,32.3,3,no,northwest,10269.46
+405,Male,51,1,28,0,1-2 Year,Yes,37690,26,34,0,20.4,0,no,southwest,3260.2
+406,Female,66,1,47,0,1-2 Year,Yes,34757,26,92,0,38.4,2,no,northeast,11396.9
+407,Male,45,1,28,0,1-2 Year,No,42620,124,245,0,24.3,0,no,southeast,4185.1
+408,Female,45,1,35,1,1-2 Year,No,2630,26,200,0,23.6,1,no,southwest,8539.67
+409,Female,68,1,30,1,1-2 Year,No,2630,160,218,0,21.1,3,no,southeast,6652.53
+410,Male,47,1,28,0,> 2 Years,Yes,33145,124,237,0,30,1,no,southeast,4074.45
+411,Male,28,1,6,0,1-2 Year,Yes,31181,124,282,0,17.5,0,no,northwest,1621.34
+412,Female,25,1,40,0,< 1 Year,Yes,39361,152,104,0,20.2,1,yes,northeast,19594.81
+413,Female,51,1,28,0,> 2 Years,Yes,33632,124,137,0,17.2,2,yes,northeast,14455.64
+414,Female,24,1,6,1,< 1 Year,No,29371,152,168,0,23.9,5,no,southwest,5080.1
+415,Female,25,1,43,1,< 1 Year,No,27080,160,177,0,35.2,0,no,northwest,2134.9
+416,Female,24,1,43,0,< 1 Year,Yes,29981,152,185,0,35.6,1,no,southeast,7345.73
+417,Male,41,1,21,0,1-2 Year,Yes,29440,157,87,1,34.1,0,no,southeast,9140.95
+418,Male,29,1,46,0,< 1 Year,Yes,2630,152,118,0,22.6,2,yes,southwest,18608.26
+419,Female,22,1,46,1,< 1 Year,No,31506,160,113,0,39.2,1,no,southeast,14418.28
+420,Female,38,1,38,1,1-2 Year,No,37379,124,158,0,27,0,yes,northwest,28950.47
+421,Female,26,1,8,1,< 1 Year,No,22650,152,181,0,33.9,0,yes,southeast,46889.26
+422,Male,23,1,6,1,< 1 Year,No,24308,152,256,0,35.9,0,yes,southeast,46599.11
+423,Female,36,1,46,0,< 1 Year,Yes,2630,1,94,0,32.8,1,yes,northeast,39125.33
+424,Female,37,1,28,0,1-2 Year,Yes,20267,152,88,0,30.6,0,no,northeast,2727.4
+425,Female,21,1,8,1,< 1 Year,Yes,46704,152,99,0,30.2,2,no,southwest,8968.33
+426,Female,24,1,13,0,< 1 Year,Yes,2630,151,19,0,24.3,5,no,southeast,9788.87
+427,Male,22,1,46,1,< 1 Year,No,23810,152,220,0,27.3,1,no,northeast,6555.07
+428,Male,54,1,28,1,1-2 Year,No,34431,124,288,0,29.2,0,no,northeast,7323.73
+429,Female,21,1,34,0,1-2 Year,Yes,36314,163,86,1,16.8,1,no,northeast,3167.46
+430,Female,44,1,28,0,1-2 Year,Yes,119735,152,295,0,30.4,3,no,northwest,18804.75
+431,Male,48,1,8,0,1-2 Year,Yes,42100,124,247,1,33.1,0,no,southwest,23082.96
+432,Male,42,1,11,0,1-2 Year,Yes,40473,124,46,0,20.2,2,no,northwest,4906.41
+433,Female,45,1,28,0,1-2 Year,Yes,27616,26,134,0,26.9,0,no,southwest,5969.72
+434,Male,25,1,16,1,< 1 Year,No,2630,152,178,0,30.5,0,no,southwest,12638.2
+435,Male,76,1,15,1,1-2 Year,No,39952,14,126,0,28.6,1,no,northwest,4243.59
+436,Male,64,1,28,0,1-2 Year,Yes,42417,60,116,0,33.1,3,no,southeast,13919.82
+437,Male,29,1,8,0,< 1 Year,Yes,42992,124,241,0,31.7,0,no,northeast,2254.8
+438,Female,28,1,14,1,< 1 Year,No,27555,152,258,0,28.9,3,no,southwest,5926.85
+439,Female,24,1,46,1,< 1 Year,No,25784,152,128,0,46.8,5,no,southeast,12592.53
+440,Female,49,1,8,0,1-2 Year,Yes,38022,124,197,0,29.5,0,no,northeast,2897.32
+441,Male,53,1,39,0,1-2 Year,Yes,2630,157,83,0,32.7,1,no,northwest,4738.27
+442,Female,67,1,29,0,1-2 Year,Yes,43753,124,30,1,33.5,0,yes,southwest,37079.37
+443,Male,54,1,33,0,1-2 Year,Yes,39396,124,295,0,43,0,no,southeast,1149.4
+444,Female,25,1,23,1,< 1 Year,No,2630,152,228,0,36.5,1,no,southeast,28287.9
+445,Female,21,1,30,1,< 1 Year,No,24030,152,82,0,26.7,1,yes,northwest,26109.33
+446,Female,39,1,28,0,1-2 Year,Yes,33016,124,74,0,33.1,0,no,southwest,7345.08
+447,Male,54,1,35,0,1-2 Year,Yes,26629,26,113,1,29.6,0,no,northeast,12731
+448,Female,24,1,32,0,< 1 Year,Yes,2630,152,107,0,25.7,0,no,northwest,11454.02
+449,Female,23,1,2,1,< 1 Year,No,24881,152,247,0,29.6,0,no,southwest,5910.94
+450,Male,33,1,15,1,< 1 Year,No,2630,152,190,0,38.6,1,no,southwest,4762.33
+451,Female,23,1,37,0,< 1 Year,Yes,21214,152,126,1,29.6,4,no,southwest,7512.27
+452,Female,23,1,21,0,< 1 Year,Yes,24388,152,270,0,24.1,1,no,northwest,4032.24
+453,Male,47,1,46,1,1-2 Year,No,2630,21,270,0,23.4,0,no,southwest,1969.61
+454,Male,63,1,28,0,1-2 Year,Yes,44879,124,85,0,29.7,0,no,northwest,1769.53
+455,Female,27,1,10,0,< 1 Year,Yes,24453,152,152,0,46.5,2,no,southeast,4686.39
+456,Male,49,1,8,0,1-2 Year,Yes,41648,124,98,0,37.4,0,no,southwest,21797
+457,Male,29,1,28,0,< 1 Year,Yes,40186,160,227,0,30.1,2,no,southeast,11881.97
+458,Male,46,1,33,0,1-2 Year,Yes,30866,124,77,0,30.5,0,no,northwest,11840.78
+459,Male,33,1,11,1,< 1 Year,No,35263,152,271,0,39.6,0,no,southwest,10601.41
+460,Male,40,1,8,1,1-2 Year,No,31839,152,165,0,33,3,no,southeast,7682.67
+461,Female,30,1,49,0,< 1 Year,Yes,27967,152,270,0,36.6,3,no,southeast,10381.48
+462,Male,52,1,28,0,1-2 Year,Yes,46090,124,217,1,30,0,yes,southwest,22144.03
+463,Male,23,1,35,1,< 1 Year,No,27968,152,128,0,38.1,2,no,northeast,15230.32
+464,Male,70,1,28,0,> 2 Years,Yes,51565,122,115,0,25.9,0,no,northeast,11165.42
+465,Male,24,1,2,0,< 1 Year,Yes,26707,152,224,0,25.2,0,no,northwest,1632.04
+466,Male,42,1,33,0,> 2 Years,Yes,35187,124,107,0,28.4,1,yes,southeast,19521.97
+467,Male,70,1,8,0,1-2 Year,Yes,46177,26,249,0,28.7,1,no,southwest,13224.69
+468,Female,22,1,46,0,< 1 Year,Yes,26118,152,46,0,33.8,2,no,northwest,12643.38
+469,Male,70,1,7,1,1-2 Year,No,65479,124,213,0,24.3,1,no,northeast,23288.93
+470,Female,23,1,28,1,< 1 Year,No,38010,152,177,0,24.1,1,no,southeast,2201.1
+471,Female,74,1,28,0,> 2 Years,Yes,30128,26,164,1,32.7,0,no,southeast,2497.04
+472,Female,22,1,43,0,1-2 Year,Yes,42589,157,236,0,30.1,0,no,northeast,2203.47
+473,Female,66,1,28,0,1-2 Year,Yes,30967,26,64,0,29.8,0,no,southwest,1744.47
+474,Female,24,1,8,0,< 1 Year,Yes,42636,152,155,0,33.3,0,no,northeast,20878.78
+475,Male,40,1,28,0,1-2 Year,Yes,37142,124,286,0,25.1,3,yes,southwest,25382.3
+476,Male,59,1,8,1,1-2 Year,No,34424,26,134,0,28.3,1,yes,northwest,28868.66
+477,Female,23,1,27,0,< 1 Year,Yes,27827,151,19,0,28.5,0,yes,northeast,35147.53
+478,Male,45,1,46,0,1-2 Year,Yes,37726,26,186,0,35.6,0,no,northwest,2534.39
+479,Female,22,1,44,1,< 1 Year,No,37232,152,177,0,36.9,0,no,southeast,1534.3
+480,Male,30,1,28,0,< 1 Year,Yes,51429,121,119,1,32.6,0,no,southeast,1824.29
+481,Male,73,1,29,0,> 2 Years,Yes,104002,3,132,0,41.3,3,no,northwest,15555.19
+482,Female,33,1,7,0,1-2 Year,No,2630,26,103,0,37.5,2,no,southeast,9304.7
+483,Female,25,1,2,1,< 1 Year,No,28342,152,113,0,31.4,0,no,southeast,1622.19
+484,Female,44,1,28,0,1-2 Year,Yes,52593,26,30,1,39.5,1,no,southwest,9880.07
+485,Female,36,1,8,0,1-2 Year,Yes,63198,26,244,1,34.3,3,no,southwest,9563.03
+486,Male,69,1,46,1,1-2 Year,No,44679,26,293,0,31.1,0,no,northeast,4347.02
+487,Male,79,1,45,0,1-2 Year,Yes,21882,124,78,0,21.5,3,no,northwest,12475.35
+488,Female,24,1,28,1,< 1 Year,No,28036,152,108,0,28.7,0,no,southwest,1253.94
+489,Male,72,1,8,1,1-2 Year,No,36462,26,61,0,38.1,0,yes,southeast,48885.14
+490,Female,39,1,28,0,1-2 Year,Yes,45387,154,59,1,31.2,1,no,northwest,10461.98
+491,Female,62,1,28,0,1-2 Year,Yes,31026,124,105,0,32.9,0,no,southwest,1748.77
+492,Male,43,1,18,0,1-2 Year,Yes,39225,124,268,0,25.1,0,no,southeast,24513.09
+493,Male,29,1,37,0,1-2 Year,Yes,2630,154,66,0,25.1,0,no,northeast,2196.47
+494,Female,20,1,28,1,< 1 Year,Yes,2630,160,120,0,43.4,0,no,southwest,12574.05
+495,Female,27,1,46,1,< 1 Year,No,28640,152,93,0,25.7,4,yes,southwest,17942.11
+496,Male,20,1,8,0,< 1 Year,Yes,40115,160,292,0,27.9,0,no,northeast,1967.02
+497,Male,22,1,35,0,< 1 Year,Yes,30083,152,84,0,23.6,2,no,southwest,4931.65
+498,Male,56,1,28,0,1-2 Year,Yes,32018,26,183,0,28.7,2,no,southwest,8027.97
+499,Female,28,1,50,1,< 1 Year,No,26788,152,221,0,24,2,no,southeast,8211.1
+500,Male,20,1,36,1,< 1 Year,No,27397,152,13,0,39.2,0,no,southwest,13470.86
+501,Male,23,1,21,0,< 1 Year,Yes,33870,152,258,0,34.4,0,yes,southwest,36197.7
+502,Female,31,1,15,1,< 1 Year,No,33444,152,233,0,26,0,no,northeast,6837.37
+503,Female,31,1,15,1,< 1 Year,No,40315,152,103,0,23.2,1,yes,southeast,22218.11
+504,Female,51,1,28,0,1-2 Year,Yes,39214,26,15,0,30.3,0,yes,southeast,32548.34
+505,Female,23,1,37,1,< 1 Year,No,41919,152,288,0,28.9,1,no,southeast,5974.38
+506,Male,37,1,28,0,1-2 Year,Yes,42207,124,135,1,30.9,3,no,northwest,6796.86
+507,Female,25,1,28,0,< 1 Year,Yes,92716,152,247,0,31.4,1,no,northwest,2643.27
+508,Female,25,1,28,1,< 1 Year,No,74371,152,295,0,23.8,2,no,northwest,3077.1
+509,Female,22,1,28,1,< 1 Year,No,58936,152,274,0,25.3,0,no,northeast,3044.21
+510,Female,31,1,18,1,< 1 Year,No,44945,152,201,0,28.7,0,no,southwest,11455.28
+511,Female,22,1,46,1,< 1 Year,No,36430,152,241,0,32.1,1,no,northeast,11763
+512,Male,29,1,7,1,< 1 Year,No,2630,152,59,0,33.7,0,no,southeast,2498.41
+513,Female,38,1,45,0,1-2 Year,Yes,2630,156,253,0,22.4,0,no,northeast,9361.33
+514,Female,26,1,15,1,< 1 Year,No,32553,152,97,0,30.4,0,no,southwest,1256.3
+515,Female,22,1,37,0,< 1 Year,Yes,32093,152,113,1,28.3,1,yes,southwest,21082.16
+516,Female,70,1,28,0,1-2 Year,Yes,37783,139,102,0,35.7,0,no,southwest,11362.76
+517,Male,58,1,28,0,1-2 Year,Yes,41394,124,22,0,35.3,1,no,southeast,27724.29
+518,Male,52,1,12,0,1-2 Year,Yes,29442,124,264,0,30.5,2,no,northwest,8413.46
+519,Male,49,1,28,0,1-2 Year,Yes,31733,26,265,0,31,1,no,southwest,5240.77
+520,Female,24,1,30,0,< 1 Year,No,39055,152,127,0,30.9,0,no,northeast,3857.76
+521,Female,24,1,30,1,< 1 Year,No,28829,152,173,0,27.4,0,no,northeast,25656.58
+522,Female,76,1,8,0,1-2 Year,Yes,38546,163,92,0,44.2,0,no,southeast,3994.18
+523,Female,22,1,3,0,< 1 Year,Yes,23309,160,202,0,33.9,0,no,northeast,9866.3
+524,Female,23,1,43,1,< 1 Year,No,25272,152,25,0,37.7,0,no,southeast,5397.62
+525,Male,24,1,8,1,< 1 Year,No,60219,151,233,0,26.1,1,yes,southeast,38245.59
+526,Female,25,1,47,0,< 1 Year,Yes,40374,152,246,0,33.9,0,no,southeast,11482.63
+527,Male,33,1,46,1,1-2 Year,No,27599,124,10,0,30.6,2,no,northwest,24059.68
+528,Male,51,1,18,1,1-2 Year,No,2630,26,88,0,25.8,1,no,southwest,9861.03
+529,Female,48,1,27,0,1-2 Year,Yes,34900,124,153,0,39.4,1,no,northeast,8342.91
+530,Male,38,1,48,0,1-2 Year,Yes,2630,124,67,0,25.5,0,no,northeast,1708
+531,Female,21,1,7,1,< 1 Year,No,2630,152,74,0,42.1,1,yes,southeast,48675.52
+532,Male,36,1,9,1,1-2 Year,No,41410,152,174,0,31.7,0,no,northeast,14043.48
+533,Female,22,1,28,1,< 1 Year,No,24980,152,181,0,29.7,2,no,southeast,12925.89
+534,Male,53,1,28,1,1-2 Year,Yes,36544,26,182,0,36.2,0,no,southeast,19214.71
+535,Male,45,1,46,1,1-2 Year,No,2630,26,271,0,40.5,0,no,southeast,13831.12
+536,Male,24,1,15,1,< 1 Year,No,23479,151,259,0,28,1,no,northeast,6067.13
+537,Male,46,1,11,1,1-2 Year,No,36581,152,115,0,38.9,3,no,southwest,5972.38
+538,Female,57,1,41,1,1-2 Year,No,24564,152,220,0,30.2,2,no,southwest,8825.09
+539,Male,41,1,28,0,1-2 Year,Yes,44898,124,154,0,28.1,1,no,southeast,8233.1
+540,Male,45,1,28,0,1-2 Year,Yes,2630,26,204,1,31.4,0,no,southeast,27346.04
+541,Male,47,1,31,0,1-2 Year,Yes,2630,124,80,0,38,3,no,southwest,6196.45
+542,Male,51,1,41,0,> 2 Years,Yes,31443,12,82,0,31.8,2,no,southeast,3056.39
+543,Female,24,1,15,0,< 1 Year,Yes,2630,152,48,0,36.3,0,no,southeast,13887.2
+544,Male,57,1,28,0,1-2 Year,Yes,24552,26,122,1,47.4,0,yes,southeast,63770.43
+545,Female,25,1,8,1,< 1 Year,No,61805,152,58,0,30.2,0,no,northwest,10231.5
+546,Male,46,1,8,1,1-2 Year,No,34727,124,229,0,25.8,2,yes,northwest,23807.24
+547,Male,38,1,28,0,1-2 Year,Yes,46272,124,203,1,35.4,0,no,northeast,3268.85
+548,Female,48,1,28,0,1-2 Year,Yes,47104,26,166,0,46.7,2,no,southwest,11538.42
+549,Male,22,1,46,1,< 1 Year,No,26647,160,95,0,28.6,0,no,northeast,3213.62
+550,Male,27,1,46,1,< 1 Year,No,26312,152,244,0,46.2,0,yes,southeast,45863.21
+551,Male,33,1,43,1,1-2 Year,No,2630,26,149,0,30.8,0,no,southwest,13390.56
+552,Male,23,1,47,1,< 1 Year,No,35982,152,277,0,28.9,0,no,southeast,3972.92
+553,Female,44,1,28,1,1-2 Year,No,34612,26,62,0,21.4,0,no,southwest,12957.12
+554,Female,24,1,41,1,< 1 Year,No,29857,152,201,0,31.7,2,no,northwest,11187.66
+555,Male,39,1,38,0,1-2 Year,Yes,33149,124,20,0,41.3,0,no,northeast,17878.9
+556,Female,21,1,13,1,< 1 Year,No,24731,160,283,0,23.8,2,no,southwest,3847.67
+557,Male,25,1,15,1,< 1 Year,No,34661,160,207,0,33.4,1,no,northeast,8334.59
+558,Female,51,1,33,0,1-2 Year,Yes,31243,152,39,1,34.2,0,no,southeast,3935.18
+559,Female,27,1,28,1,< 1 Year,No,52455,152,21,0,34.1,3,yes,northwest,39983.43
+560,Female,42,1,8,0,> 2 Years,Yes,34393,124,209,0,35.5,0,no,northwest,1646.43
+561,Female,23,1,44,1,< 1 Year,No,28978,152,242,0,20,2,no,northwest,9193.84
+562,Male,36,1,28,1,1-2 Year,No,44579,26,104,0,32.7,0,no,northeast,10923.93
+563,Male,50,1,28,0,> 2 Years,Yes,38269,29,244,0,30.5,0,no,southwest,2494.02
+564,Male,69,0,33,0,1-2 Year,Yes,39730,26,53,0,44.8,1,no,southeast,9058.73
+565,Male,24,1,11,1,< 1 Year,No,36316,152,64,0,32.1,2,no,southeast,2801.26
+566,Male,57,1,7,0,1-2 Year,Yes,2630,124,52,0,30.5,0,no,northwest,2128.43
+567,Female,32,1,43,0,< 1 Year,No,2630,152,167,0,40.6,1,no,northwest,6373.56
+568,Male,68,1,8,0,1-2 Year,Yes,112974,26,206,0,30.6,2,no,northwest,7256.72
+569,Male,40,1,4,0,1-2 Year,Yes,33466,124,120,1,31.9,5,no,southwest,11552.9
+570,Male,37,1,30,0,1-2 Year,Yes,29934,26,141,0,40.6,2,yes,northwest,45702.02
+571,Female,27,1,17,1,< 1 Year,No,2630,151,24,0,29.1,0,no,southwest,3761.29
+572,Female,21,1,47,0,< 1 Year,Yes,57982,160,89,0,37.3,1,no,southeast,2219.45
+573,Female,46,1,28,0,1-2 Year,Yes,51568,11,216,0,43.1,2,no,southeast,4753.64
+574,Male,55,1,28,0,1-2 Year,Yes,54115,55,114,0,36.9,1,no,northeast,31620
+575,Male,79,1,29,0,1-2 Year,Yes,28777,26,220,0,34.3,2,no,northeast,13224.06
+576,Female,22,1,8,0,< 1 Year,Yes,35461,152,90,0,27.2,0,no,northwest,12222.9
+577,Female,52,1,7,0,1-2 Year,Yes,2630,157,19,1,26.8,0,no,southeast,1665
+578,Male,22,1,30,1,< 1 Year,No,28001,152,226,0,38.1,1,yes,northeast,58571.07
+579,Female,24,1,28,0,< 1 Year,Yes,31901,152,17,0,30.2,1,no,southwest,9724.53
+580,Male,32,1,21,1,< 1 Year,No,25562,152,261,0,23.5,0,no,northeast,3206.49
+581,Male,40,1,28,0,1-2 Year,Yes,34364,124,41,0,25.5,1,no,northeast,12913.99
+582,Female,23,1,8,1,< 1 Year,No,48251,152,202,0,30.6,0,no,northwest,1639.56
+583,Male,56,1,6,1,1-2 Year,Yes,20472,26,288,0,45.4,2,no,southeast,6356.27
+584,Male,57,1,28,0,1-2 Year,Yes,31179,26,160,1,23.7,1,no,southeast,17626.24
+585,Male,24,1,15,1,< 1 Year,No,33613,152,205,0,20.7,0,no,southwest,1242.82
+586,Female,27,1,33,1,< 1 Year,No,2630,160,266,0,28.3,1,no,southeast,4779.6
+587,Male,21,1,26,0,< 1 Year,Yes,25205,160,256,0,20.2,3,no,northeast,3861.21
+588,Female,72,1,28,0,1-2 Year,Yes,61819,122,35,0,30.2,1,yes,northwest,43943.88
+589,Female,25,1,6,0,< 1 Year,Yes,2630,152,288,0,35.9,0,no,northeast,13635.64
+590,Female,21,1,7,1,< 1 Year,No,48103,160,135,0,30.7,1,no,southeast,5976.83
+591,Male,24,1,45,0,< 1 Year,Yes,19848,152,115,0,29,0,no,southwest,11842.44
+592,Female,25,1,24,1,< 1 Year,No,2630,152,36,0,19.6,1,no,northwest,8428.07
+593,Male,26,1,30,1,< 1 Year,No,22102,152,97,0,31.1,2,no,southeast,2566.47
+594,Female,75,1,46,1,1-2 Year,No,30356,26,288,0,21.9,1,yes,northeast,15359.1
+595,Female,24,1,41,1,< 1 Year,Yes,21093,160,53,0,40.3,0,no,southeast,5709.16
+596,Male,66,1,14,0,1-2 Year,Yes,40223,124,200,0,33.7,1,no,northeast,8823.99
+597,Female,23,1,41,1,< 1 Year,No,32465,152,47,0,29.5,2,no,southeast,7640.31
+598,Female,49,1,46,0,1-2 Year,Yes,25996,26,184,1,33.3,1,no,northeast,5594.85
+599,Male,42,1,41,0,1-2 Year,Yes,35129,163,80,1,32.6,2,no,southwest,7441.5
+600,Female,25,1,23,1,< 1 Year,No,19298,152,140,0,37.5,2,no,northwest,33471.97
+601,Male,21,1,29,1,< 1 Year,No,28450,152,17,0,39.2,0,no,southeast,1633.04
+602,Female,23,1,28,1,< 1 Year,No,28155,152,83,0,31.6,0,no,northwest,9174.14
+603,Female,38,1,28,0,1-2 Year,Yes,26103,154,121,0,25.3,0,no,southwest,11070.54
+604,Male,44,1,35,0,1-2 Year,Yes,2630,124,245,0,39.1,3,no,southeast,16085.13
+605,Male,25,1,28,0,< 1 Year,Yes,60550,152,269,0,28.3,0,yes,northwest,17468.98
+606,Male,38,1,28,0,1-2 Year,Yes,52970,124,106,0,34.1,0,no,southeast,9283.56
+607,Female,24,1,13,1,< 1 Year,No,22649,152,243,0,25.2,0,no,northeast,3558.62
+608,Female,23,1,27,0,< 1 Year,No,2630,152,103,0,23.7,0,yes,northwest,25678.78
+609,Female,43,1,28,1,1-2 Year,No,2630,124,248,0,27,2,no,northeast,4435.09
+610,Female,30,1,26,0,< 1 Year,Yes,2630,154,74,0,37.8,2,yes,southwest,39241.44
+611,Female,49,1,28,1,1-2 Year,No,2630,124,100,0,29.4,1,no,southeast,8547.69
+612,Female,22,1,30,1,< 1 Year,No,30724,152,271,0,34.8,2,no,southwest,6571.54
+613,Female,45,1,8,0,1-2 Year,Yes,2630,26,96,1,33.2,0,no,northeast,2207.7
+614,Male,72,1,28,0,1-2 Year,Yes,45683,26,270,0,19,3,no,northeast,6753.04
+615,Male,25,1,8,1,< 1 Year,No,63124,152,136,0,33,0,no,southeast,1880.07
+616,Male,64,1,28,1,1-2 Year,No,30068,26,237,0,36.6,1,yes,southeast,42969.85
+617,Male,46,1,28,0,> 2 Years,Yes,64819,124,82,1,28.6,0,no,northeast,11658.12
+618,Male,84,1,28,1,1-2 Year,No,49367,122,31,0,25.6,2,yes,southwest,23306.55
+619,Male,46,1,28,0,> 2 Years,Yes,42534,124,168,0,33.1,0,yes,southeast,34439.86
+620,Female,41,1,28,0,1-2 Year,Yes,35524,124,13,1,37.1,0,no,southwest,10713.64
+621,Male,73,1,46,0,1-2 Year,Yes,41623,26,146,0,31.4,1,no,southwest,3659.35
+622,Female,43,1,28,0,> 2 Years,Yes,37314,26,288,1,34.1,4,yes,southwest,40182.25
+623,Male,47,1,9,0,1-2 Year,Yes,37752,26,235,0,21.3,1,no,southwest,9182.17
+624,Male,55,1,28,1,1-2 Year,Yes,42394,26,142,0,33.5,0,yes,northeast,34617.84
+625,Female,45,1,37,0,1-2 Year,Yes,35692,152,235,0,28.8,0,no,northwest,12129.61
+626,Female,24,1,11,1,< 1 Year,No,38608,152,107,0,26,0,no,northwest,3736.46
+627,Male,44,1,23,0,1-2 Year,Yes,42609,124,83,0,28.9,3,no,northeast,6748.59
+628,Male,42,1,28,0,> 2 Years,Yes,34815,26,101,1,42.5,1,no,southeast,11326.71
+629,Female,24,1,3,1,< 1 Year,No,28239,152,67,0,38,0,no,southwest,11365.95
+630,Female,27,1,15,0,< 1 Year,No,28171,152,213,0,39,0,yes,northwest,42983.46
+631,Male,21,1,26,1,< 1 Year,No,15945,160,160,0,36.1,1,no,southwest,10085.85
+632,Female,22,1,40,1,< 1 Year,No,32851,152,234,0,29.3,0,no,southwest,1977.82
+633,Female,22,1,14,1,< 1 Year,No,37508,152,260,0,35.5,0,no,southeast,3366.67
+634,Female,44,1,40,0,1-2 Year,Yes,36790,26,266,0,22.7,2,no,northeast,7173.36
+635,Male,21,1,4,0,< 1 Year,Yes,22577,152,204,0,39.7,1,no,southwest,9391.35
+636,Male,36,1,46,0,1-2 Year,Yes,20819,26,137,0,38.2,0,no,northeast,14410.93
+637,Male,24,1,28,1,< 1 Year,No,55467,152,84,0,24.5,1,no,northwest,2709.11
+638,Female,53,1,8,0,1-2 Year,Yes,60483,7,30,0,38.1,2,no,northeast,24915.05
+639,Male,52,1,28,1,1-2 Year,No,35031,26,88,0,26.4,0,yes,northeast,20149.32
+640,Male,23,1,35,1,< 1 Year,No,34056,152,233,0,33.7,4,no,southeast,12949.16
+641,Female,49,1,48,1,1-2 Year,No,2630,26,245,0,42.4,5,no,southwest,6666.24
+642,Female,23,1,29,1,< 1 Year,No,27636,152,145,0,28.3,3,yes,northwest,32787.46
+643,Female,23,1,41,1,< 1 Year,No,44043,152,65,0,33.9,0,no,northeast,13143.86
+644,Male,40,1,28,0,1-2 Year,No,32854,122,149,0,35,3,no,northwest,4466.62
+645,Male,23,1,15,1,< 1 Year,No,29541,152,258,0,35.3,2,no,southeast,18806.15
+646,Female,21,1,36,1,< 1 Year,No,30389,152,27,0,30.8,3,no,northeast,10141.14
+647,Male,30,1,28,0,1-2 Year,Yes,2630,157,298,0,26.2,1,no,northwest,6123.57
+648,Male,57,1,46,1,1-2 Year,No,2630,26,166,0,23.4,3,no,northeast,8252.28
+649,Male,55,1,28,1,1-2 Year,No,67745,124,93,0,28.5,0,no,northeast,1712.23
+650,Male,50,1,4,0,1-2 Year,Yes,26821,26,296,0,33,0,no,northeast,12430.95
+651,Female,44,1,28,0,1-2 Year,Yes,26567,26,215,0,42.7,2,no,southeast,9800.89
+652,Male,25,1,28,0,< 1 Year,Yes,41654,26,233,0,39.6,1,no,southeast,10579.71
+653,Male,43,1,23,0,1-2 Year,Yes,29155,154,277,0,31.1,0,no,southeast,8280.62
+654,Male,24,1,41,1,< 1 Year,No,24773,152,277,0,36.3,2,no,southeast,8527.53
+655,Female,59,1,18,0,1-2 Year,No,23322,124,133,1,35.2,0,no,southeast,12244.53
+656,Male,23,1,44,0,< 1 Year,Yes,29267,152,41,0,25.3,2,yes,southeast,24667.42
+657,Male,53,1,13,0,1-2 Year,Yes,2630,26,90,0,42.4,1,no,southwest,3410.32
+658,Male,23,1,46,1,1-2 Year,Yes,2630,156,234,0,33.2,2,no,northwest,4058.71
+659,Male,24,1,36,1,< 1 Year,No,36975,152,88,0,35.9,1,no,northeast,26392.26
+660,Female,24,1,28,0,< 1 Year,Yes,32681,152,116,0,28.8,4,no,northeast,14394.4
+661,Male,60,1,28,0,1-2 Year,Yes,68548,26,298,0,46.5,3,no,southeast,6435.62
+662,Female,34,1,29,0,1-2 Year,Yes,30045,26,119,1,24,1,no,southeast,22192.44
+663,Male,29,1,28,1,< 1 Year,No,25850,152,125,0,31.5,1,no,northeast,5148.55
+664,Female,21,1,46,1,< 1 Year,No,41238,152,195,0,33.7,0,no,southeast,1136.4
+665,Male,25,1,14,1,< 1 Year,No,39723,152,278,0,23,0,yes,southeast,27037.91
+666,Female,45,1,35,1,1-2 Year,No,52448,26,105,0,38.1,2,yes,southeast,42560.43
+667,Female,22,1,47,1,< 1 Year,No,24233,152,231,0,28.7,1,no,southwest,8703.46
+668,Male,55,1,17,1,1-2 Year,No,36693,26,212,0,32.8,2,yes,northwest,40003.33
+669,Male,45,1,33,0,1-2 Year,Yes,23958,26,35,1,32,0,yes,northeast,45710.21
+670,Female,23,1,28,1,< 1 Year,No,49577,152,55,0,29.8,1,no,southeast,6500.24
+671,Male,26,1,47,1,< 1 Year,No,33045,152,188,0,31.6,3,no,southeast,4837.58
+672,Male,68,1,28,0,1-2 Year,Yes,45626,26,68,0,31.2,0,no,northeast,3943.6
+673,Female,63,1,28,0,1-2 Year,Yes,2630,26,172,0,29.7,0,no,southeast,4399.73
+674,Male,27,1,36,1,< 1 Year,No,32286,152,75,0,31,0,no,southeast,6185.32
+675,Female,37,1,28,0,1-2 Year,Yes,45037,26,238,1,43.9,2,yes,southeast,46200.99
+676,Female,48,1,28,1,1-2 Year,No,45148,124,240,0,21.4,0,no,northwest,7222.79
+677,Female,35,1,35,0,1-2 Year,Yes,37646,26,198,0,40.8,3,no,southeast,12485.8
+678,Male,71,1,28,1,1-2 Year,No,33685,122,10,0,31.4,3,yes,northwest,46130.53
+679,Male,31,1,39,0,< 1 Year,Yes,2630,26,166,1,36.1,3,no,southwest,12363.55
+680,Male,53,1,29,0,1-2 Year,Yes,2630,156,141,0,23.2,2,no,northwest,10156.78
+681,Male,22,1,41,1,< 1 Year,No,31827,152,69,0,17.4,1,no,southwest,2585.27
+682,Female,67,1,41,0,1-2 Year,Yes,31554,124,30,0,20.3,0,no,southwest,1242.26
+683,Female,76,1,28,1,1-2 Year,No,37753,124,38,0,35.3,2,yes,southwest,40103.89
+684,Female,47,1,30,0,1-2 Year,Yes,2630,154,227,0,24.3,0,no,northwest,9863.47
+685,Male,36,1,35,0,1-2 Year,Yes,25017,124,203,0,18.5,1,no,southwest,4766.02
+686,Male,46,1,28,0,1-2 Year,Yes,31663,26,235,0,26.4,2,no,northeast,11244.38
+687,Female,35,1,3,0,1-2 Year,No,2630,26,43,0,26.1,2,no,northeast,7729.65
+688,Female,66,1,8,0,1-2 Year,No,48089,7,205,0,41.7,0,no,southeast,5438.75
+689,Male,61,1,8,0,> 2 Years,Yes,22257,124,171,1,24.1,1,no,southwest,26236.58
+690,Female,23,1,41,1,< 1 Year,No,33860,152,217,0,31.1,1,yes,southeast,34806.47
+691,Male,44,1,28,0,1-2 Year,No,50633,124,103,0,27.4,0,no,northeast,2104.11
+692,Female,22,1,11,0,< 1 Year,Yes,35557,152,110,0,36.2,1,no,southwest,8068.19
+693,Female,28,1,11,1,< 1 Year,No,2630,152,101,0,32.4,1,no,northwest,2362.23
+694,Female,38,1,46,0,1-2 Year,Yes,2630,157,83,0,23.7,0,no,northwest,2352.97
+695,Female,48,1,10,0,1-2 Year,Yes,39818,26,180,0,34.8,1,no,southwest,3578
+696,Male,41,1,28,0,1-2 Year,Yes,49845,124,168,0,40.2,0,no,northwest,3201.25
+697,Female,31,1,8,1,< 1 Year,No,41106,152,37,0,32.3,2,no,northeast,29186.48
+698,Male,42,1,8,1,1-2 Year,No,2630,26,193,0,35.8,1,yes,southeast,40273.65
+699,Male,48,1,41,1,1-2 Year,No,2630,124,18,0,33.7,0,no,northwest,10976.25
+700,Male,42,1,28,0,1-2 Year,Yes,2630,122,235,0,39.3,2,no,southeast,3500.61
+701,Female,24,1,47,1,< 1 Year,No,35665,152,174,0,34.9,0,no,southeast,2020.55
+702,Male,76,1,3,1,1-2 Year,No,28290,26,146,0,44.7,0,no,northeast,9541.7
+703,Female,43,1,28,0,1-2 Year,Yes,46174,26,21,1,41.5,0,no,southeast,9504.31
+704,Female,25,1,28,1,< 1 Year,No,34410,152,219,0,26.4,1,no,northwest,5385.34
+705,Male,43,1,28,0,1-2 Year,Yes,26259,124,116,0,29.5,1,no,northwest,8930.93
+706,Female,35,1,46,0,1-2 Year,Yes,29036,124,227,1,32.9,2,no,southwest,5375.04
+707,Female,24,1,11,1,< 1 Year,No,32803,152,239,0,38.1,0,yes,southeast,44400.41
+708,Male,46,1,8,0,1-2 Year,No,35183,155,68,0,28.7,3,no,northwest,10264.44
+709,Female,45,1,28,1,1-2 Year,No,28586,124,129,0,30.5,3,no,northeast,6113.23
+710,Male,24,1,49,1,< 1 Year,No,19613,152,167,0,27.7,0,no,northeast,5469.01
+711,Female,46,1,0,0,1-2 Year,Yes,2630,47,292,0,35.2,1,no,southeast,1727.54
+712,Female,33,1,28,0,1-2 Year,Yes,28188,122,257,0,23.5,2,no,southeast,10107.22
+713,Male,23,1,18,1,< 1 Year,No,18086,152,139,0,30.7,2,no,northwest,8310.84
+714,Male,38,1,39,0,1-2 Year,Yes,2630,127,244,0,40.5,0,no,northeast,1984.45
+715,Male,47,1,26,0,1-2 Year,Yes,28871,26,60,1,22.6,0,no,southwest,2457.5
+716,Female,26,1,46,1,< 1 Year,No,30380,152,268,0,28.9,0,no,southwest,12146.97
+717,Male,44,1,8,0,1-2 Year,Yes,32342,124,255,1,22.6,1,no,northwest,9566.99
+718,Male,23,1,29,0,< 1 Year,Yes,28070,153,136,0,24.3,1,no,northwest,13112.6
+719,Male,36,1,8,0,1-2 Year,Yes,32752,156,287,1,36.7,2,no,northwest,10848.13
+720,Male,40,1,8,0,1-2 Year,Yes,71479,124,107,0,33.4,0,no,northwest,12231.61
+721,Male,24,1,10,1,< 1 Year,No,31953,152,83,0,40.7,0,no,northeast,9875.68
+722,Male,39,1,18,0,1-2 Year,Yes,43177,124,12,0,36.6,3,no,southwest,11264.54
+723,Female,42,1,28,1,1-2 Year,No,61279,26,224,0,37.4,0,no,southwest,12979.36
+724,Female,76,1,29,1,1-2 Year,No,48834,26,54,0,35.4,0,no,southwest,1263.25
+725,Female,31,1,10,1,< 1 Year,No,30459,152,295,0,27.1,1,no,northeast,10106.13
+726,Female,21,1,15,0,< 1 Year,Yes,31946,152,216,0,39.1,3,yes,southeast,40932.43
+727,Male,48,1,37,1,1-2 Year,No,22242,26,283,0,28.4,1,no,northwest,6664.69
+728,Female,23,1,27,0,< 1 Year,No,27629,152,228,0,21.8,1,yes,northeast,16657.72
+729,Male,28,1,9,1,< 1 Year,No,34010,152,145,0,40.3,0,no,northeast,2217.6
+730,Female,43,1,28,0,1-2 Year,Yes,41103,26,258,0,36.1,1,no,southeast,6781.35
+731,Male,35,1,28,0,1-2 Year,Yes,33273,122,255,0,24.4,3,yes,southeast,19362
+732,Female,35,1,28,0,1-2 Year,Yes,39339,124,170,0,21.4,1,no,southwest,10065.41
+733,Male,77,1,28,0,1-2 Year,Yes,2630,26,109,1,30.1,3,no,southwest,4234.93
+734,Female,24,1,33,1,< 1 Year,Yes,31546,152,268,0,27.3,1,no,northeast,9447.25
+735,Male,50,1,28,0,> 2 Years,Yes,53905,124,253,1,32.1,3,no,southwest,14007.22
+736,Female,69,1,28,0,1-2 Year,Yes,48756,124,285,0,34.8,1,no,northwest,9583.89
+737,Female,24,1,37,0,< 1 Year,Yes,49007,152,115,0,38.4,0,yes,southeast,40419.02
+738,Male,29,1,8,1,< 1 Year,No,46278,152,69,0,23.7,2,no,southwest,3484.33
+739,Male,43,1,28,0,1-2 Year,Yes,29921,26,146,1,31.7,3,yes,northeast,36189.1
+740,Male,70,1,28,1,1-2 Year,No,36785,13,211,0,35.5,2,yes,southwest,44585.46
+741,Male,50,1,8,0,1-2 Year,Yes,2630,26,276,0,24,2,no,northeast,8604.48
+742,Male,29,1,18,1,< 1 Year,No,36528,152,270,0,29.2,0,yes,southeast,18246.5
+743,Male,23,1,28,1,< 1 Year,No,42463,152,160,0,34.1,0,yes,northeast,43254.42
+744,Male,20,1,39,1,< 1 Year,No,31515,160,167,0,26.6,0,no,southeast,3757.84
+745,Male,29,1,4,1,< 1 Year,No,23080,152,103,0,26.4,0,no,northwest,8827.21
+746,Female,68,1,47,1,1-2 Year,No,25075,26,108,0,30.1,1,no,northwest,9910.36
+747,Male,25,1,27,0,< 1 Year,Yes,27136,152,155,0,27,2,no,southwest,11737.85
+748,Male,48,1,28,0,1-2 Year,Yes,31502,26,125,0,21.8,0,no,northwest,1627.28
+749,Male,46,1,28,0,> 2 Years,Yes,38166,26,37,1,36,1,no,southwest,8556.91
+750,Male,44,1,28,1,1-2 Year,Yes,33844,26,81,0,30.9,0,no,northwest,3062.51
+751,Male,49,1,30,0,1-2 Year,Yes,2630,26,59,1,26.4,0,yes,southeast,19539.24
+752,Male,53,1,30,1,1-2 Year,No,2630,26,208,0,29,0,no,northwest,1906.36
+753,Male,24,1,7,0,< 1 Year,No,32560,152,291,0,37.9,0,no,northwest,14210.54
+754,Male,61,1,3,0,1-2 Year,Yes,27238,30,206,0,22.8,0,no,southeast,11833.78
+755,Female,33,1,28,0,< 1 Year,Yes,43563,154,240,0,33.6,4,no,northeast,17128.43
+756,Female,49,1,8,0,> 2 Years,Yes,40190,124,209,0,27.6,2,no,northeast,5031.27
+757,Female,53,1,33,0,1-2 Year,Yes,47367,124,254,0,22.8,3,no,northeast,7985.82
+758,Male,46,1,36,1,1-2 Year,No,37565,26,18,0,27.8,0,yes,southeast,23065.42
+759,Female,44,1,28,0,1-2 Year,Yes,42376,124,298,0,37.4,3,no,northeast,5428.73
+760,Male,25,1,32,1,< 1 Year,No,2630,160,114,0,38.2,0,yes,southeast,36307.8
+761,Male,26,1,15,0,< 1 Year,No,44116,152,125,0,34.6,2,no,northeast,3925.76
+762,Female,40,1,28,0,1-2 Year,Yes,2630,124,197,1,35.2,1,no,southwest,2416.96
+763,Female,48,1,3,0,1-2 Year,Yes,28795,124,286,0,27.1,1,yes,southwest,19040.88
+764,Female,35,1,28,0,1-2 Year,Yes,22773,124,193,0,26,0,no,northeast,3070.81
+765,Male,59,1,28,0,1-2 Year,Yes,2630,156,245,0,25.2,2,no,northeast,9095.07
+766,Female,23,1,33,1,< 1 Year,No,22900,152,24,0,31.8,0,no,northwest,11842.62
+767,Female,69,1,18,0,1-2 Year,Yes,30539,124,107,1,32.3,1,no,southwest,8062.76
+768,Female,72,1,28,1,1-2 Year,No,65452,26,38,0,29,1,no,southwest,7050.64
+769,Female,44,1,41,0,1-2 Year,Yes,41968,124,222,0,39.7,0,no,southwest,14319.03
+770,Male,30,1,8,1,< 1 Year,No,45553,160,295,0,19.5,2,no,northwest,6933.24
+771,Female,31,1,28,1,1-2 Year,No,34827,124,71,0,36.1,3,no,southwest,27941.29
+772,Male,48,1,8,1,1-2 Year,No,39109,78,51,0,26.7,2,no,southwest,11150.78
+773,Female,33,1,18,1,< 1 Year,No,33981,152,248,0,36.5,0,no,northeast,12797.21
+774,Female,21,1,3,1,< 1 Year,No,31286,152,286,0,28.9,0,yes,northwest,17748.51
+775,Male,58,1,28,0,1-2 Year,Yes,2630,158,180,1,34.2,2,no,northwest,7261.74
+776,Male,52,1,3,0,1-2 Year,No,29058,26,198,0,33.3,3,no,southeast,10560.49
+777,Male,44,1,35,0,1-2 Year,No,2630,89,88,0,32.3,2,no,northwest,6986.7
+778,Male,20,1,13,0,< 1 Year,Yes,2630,160,222,0,39.8,0,no,northeast,7448.4
+779,Male,23,1,28,0,< 1 Year,Yes,40765,152,144,0,34.3,3,no,southeast,5934.38
+780,Female,24,1,37,0,< 1 Year,Yes,21408,160,202,0,28.9,0,no,northwest,9869.81
+781,Male,45,1,28,1,1-2 Year,No,36212,124,82,0,24.4,3,yes,southwest,18259.22
+782,Male,77,1,28,1,1-2 Year,No,33249,122,267,0,41.1,0,no,southeast,1146.8
+783,Female,23,1,30,1,< 1 Year,No,26275,152,108,0,36,1,no,southeast,9386.16
+784,Male,24,1,8,1,< 1 Year,No,33265,152,57,0,27.6,1,yes,southwest,24520.26
+785,Female,37,1,33,0,1-2 Year,No,41890,124,167,0,29.3,1,no,southeast,4350.51
+786,Male,40,1,8,0,1-2 Year,Yes,31043,124,279,0,27.7,3,no,southwest,6414.18
+787,Male,65,1,48,0,1-2 Year,Yes,2630,26,90,0,37,0,no,northeast,12741.17
+788,Female,54,1,41,1,1-2 Year,No,19700,26,39,0,36.9,0,no,northwest,1917.32
+789,Male,33,1,28,0,1-2 Year,Yes,43580,26,37,0,22.5,3,no,northeast,5209.58
+790,Male,40,1,28,0,1-2 Year,Yes,28113,124,278,1,29.9,0,no,southeast,13457.96
+791,Male,20,1,8,1,< 1 Year,No,44400,160,275,0,41.8,0,no,southeast,5662.23
+792,Female,20,1,2,1,< 1 Year,Yes,31207,160,195,0,27.6,0,no,southwest,1252.41
+793,Male,24,1,8,0,< 1 Year,No,2630,152,12,0,23.2,0,no,northeast,2731.91
+794,Male,52,1,3,0,1-2 Year,Yes,28088,26,285,1,20.9,0,yes,southeast,21195.82
+795,Male,71,1,16,0,1-2 Year,Yes,2630,26,134,0,31.9,2,no,northwest,7209.49
+796,Female,23,1,43,0,< 1 Year,Yes,46257,152,215,0,28.5,0,yes,northwest,18310.74
+797,Male,26,1,27,1,< 1 Year,No,49625,152,151,0,44.2,2,no,southeast,4266.17
+798,Female,27,1,25,1,< 1 Year,No,29214,152,46,0,22.9,1,no,northeast,4719.52
+799,Female,23,1,8,1,< 1 Year,No,50423,152,73,0,33.1,0,no,southwest,11848.14
+800,Male,45,1,28,1,1-2 Year,No,29055,124,279,0,24.8,0,yes,northeast,17904.53
+801,Male,26,1,14,1,< 1 Year,No,24354,151,171,0,26.2,1,no,southeast,7046.72
+802,Male,23,1,28,1,< 1 Year,No,57911,152,34,0,36,0,no,southeast,14313.85
+803,Female,29,1,15,1,< 1 Year,No,37098,152,185,0,22.3,1,no,southwest,2103.08
+804,Female,45,1,28,1,1-2 Year,No,2630,32,214,0,42.2,0,yes,southeast,38792.69
+805,Female,26,1,28,1,< 1 Year,Yes,42200,26,251,0,26.5,0,no,southeast,1815.88
+806,Male,38,1,48,0,1-2 Year,Yes,2630,124,10,1,35.8,0,no,northwest,7731.86
+807,Female,67,1,29,0,1-2 Year,Yes,45459,124,267,1,41.4,1,no,northwest,28476.73
+808,Female,21,1,36,1,< 1 Year,No,32204,160,221,0,36.6,0,no,northwest,2136.88
+809,Female,24,1,3,1,< 1 Year,Yes,29376,160,112,0,30.1,0,no,southeast,1131.51
+810,Female,24,1,8,1,< 1 Year,No,58326,152,96,0,25.8,1,no,northeast,3309.79
+811,Male,22,1,2,1,< 1 Year,No,34772,152,105,0,30.8,3,no,southwest,9414.92
+812,Female,25,1,37,0,< 1 Year,Yes,47183,152,204,0,42.9,3,no,northwest,6360.99
+813,Female,54,1,50,1,1-2 Year,No,32573,154,153,0,21,2,no,southeast,11013.71
+814,Male,62,1,28,0,1-2 Year,Yes,38052,124,82,1,22.5,2,no,northeast,4428.89
+815,Female,26,1,28,1,< 1 Year,No,38448,152,216,0,34.4,2,no,southeast,5584.31
+816,Female,22,1,33,1,< 1 Year,No,38214,152,21,0,31.5,0,no,southeast,1877.93
+817,Female,36,1,28,1,1-2 Year,No,2630,125,232,0,24.2,0,no,northwest,2842.76
+818,Female,59,1,8,0,1-2 Year,Yes,80682,124,280,0,37.1,3,no,southwest,3597.6
+819,Female,23,1,39,1,< 1 Year,No,50821,152,201,0,26.1,1,yes,northeast,23401.31
+820,Female,67,1,41,0,1-2 Year,Yes,40821,124,73,0,35.5,0,yes,northwest,55135.4
+821,Female,41,1,38,0,1-2 Year,Yes,30438,124,299,0,33.7,1,no,southwest,7445.92
+822,Male,25,1,11,1,< 1 Year,No,18009,160,87,0,17.7,0,no,northwest,2680.95
+823,Female,46,1,28,0,1-2 Year,Yes,30184,124,110,0,31.1,0,no,southeast,1621.88
+824,Female,23,1,14,0,< 1 Year,Yes,27404,152,293,0,29.8,2,no,southeast,8219.2
+825,Female,26,1,9,1,< 1 Year,No,37801,152,121,0,24.3,0,no,northwest,12523.6
+826,Female,37,1,35,0,1-2 Year,No,2630,26,71,0,31.8,2,no,northeast,16069.08
+827,Male,66,1,50,1,1-2 Year,No,38590,8,76,0,31.8,2,yes,southeast,43813.87
+828,Female,33,1,13,0,1-2 Year,No,38411,124,176,0,28,1,yes,northeast,20773.63
+829,Female,25,1,28,1,< 1 Year,No,29046,152,134,0,30.8,3,yes,northeast,39597.41
+830,Male,23,1,29,1,< 1 Year,No,36838,152,182,0,21.9,1,no,northwest,6117.49
+831,Male,56,1,28,1,1-2 Year,No,48462,124,22,0,33.1,0,no,southwest,13393.76
+832,Female,41,1,35,0,1-2 Year,Yes,30495,10,136,0,25.8,0,no,northwest,5266.37
+833,Male,20,1,30,0,< 1 Year,No,25497,160,11,0,23.8,2,no,northwest,4719.74
+834,Male,25,1,37,0,< 1 Year,Yes,31531,152,49,1,34.4,0,no,northwest,11743.93
+835,Male,66,1,41,0,1-2 Year,Yes,47749,26,144,0,33.8,1,no,northwest,5377.46
+836,Female,25,1,18,1,< 1 Year,No,25162,152,155,0,36,2,no,southeast,7160.33
+837,Female,29,1,33,1,< 1 Year,No,52537,152,291,0,31.5,0,no,southwest,4402.23
+838,Male,25,1,8,1,< 1 Year,No,2630,152,16,0,28.3,0,no,northeast,11657.72
+839,Male,52,1,8,0,1-2 Year,Yes,54581,26,234,0,23.5,2,no,northeast,6402.29
+840,Male,77,1,28,0,> 2 Years,Yes,60083,26,191,0,31.4,0,no,northwest,12622.18
+841,Male,21,1,8,0,< 1 Year,Yes,66657,152,59,0,31.1,0,no,southwest,1526.31
+842,Female,24,1,17,1,< 1 Year,No,28385,152,164,0,24.7,0,no,northeast,12323.94
+843,Female,24,1,37,0,< 1 Year,No,47282,152,65,0,32.8,2,yes,southeast,36021.01
+844,Male,39,1,28,1,1-2 Year,No,38452,8,230,0,29.8,0,yes,southeast,27533.91
+845,Male,44,1,17,0,1-2 Year,Yes,37272,124,231,0,30.5,0,no,northeast,10072.06
+846,Female,44,1,28,0,1-2 Year,Yes,43624,26,28,1,32.5,0,yes,southeast,45008.96
+847,Male,43,1,39,0,1-2 Year,Yes,2630,124,26,1,34.2,1,no,southwest,9872.7
+848,Male,49,1,46,1,1-2 Year,No,2630,26,226,0,50.4,1,no,southeast,2438.06
+849,Female,24,1,41,1,< 1 Year,No,39342,152,27,0,24.1,0,no,southwest,2974.13
+850,Male,53,1,8,1,1-2 Year,No,44895,124,240,0,32.8,0,no,northwest,10601.63
+851,Female,67,1,50,0,1-2 Year,Yes,32592,120,101,0,30.8,0,yes,northeast,37270.15
+852,Male,54,1,8,0,< 1 Year,Yes,34948,26,116,1,32.3,2,no,northwest,14119.62
+853,Female,44,1,41,0,1-2 Year,Yes,31059,26,263,1,35.5,0,yes,northeast,42111.66
+854,Male,57,1,28,0,1-2 Year,Yes,67533,26,269,0,23.8,2,no,northeast,11729.68
+855,Female,30,1,28,1,< 1 Year,No,28647,152,190,0,23.8,3,yes,northeast,24106.91
+856,Female,28,1,4,0,1-2 Year,Yes,2630,157,63,0,29.6,0,no,southwest,1875.34
+857,Female,22,1,15,0,< 1 Year,Yes,37932,152,293,0,33.1,0,yes,southeast,40974.16
+858,Male,36,1,8,0,1-2 Year,Yes,31149,124,207,0,24.1,0,yes,northwest,15817.99
+859,Male,23,1,36,0,< 1 Year,Yes,31668,152,31,0,32.2,1,no,southeast,18218.16
+860,Male,62,1,8,0,1-2 Year,Yes,30883,26,173,0,28.1,0,no,southwest,10965.45
+861,Male,42,1,28,0,1-2 Year,Yes,30408,124,74,1,47.6,2,yes,southwest,46113.51
+862,Male,29,1,41,0,< 1 Year,Yes,2630,152,203,0,28,3,no,southwest,7151.09
+863,Male,44,1,50,0,1-2 Year,Yes,35668,65,40,0,33.5,2,no,northwest,12269.69
+864,Male,55,1,46,0,1-2 Year,Yes,31997,152,202,0,19.9,0,no,northeast,5458.05
+865,Female,49,1,41,0,1-2 Year,Yes,2630,26,65,0,25.4,0,no,southwest,8782.47
+866,Male,60,1,28,0,1-2 Year,No,46684,26,280,0,29.9,2,no,southwest,6600.36
+867,Male,21,1,46,1,< 1 Year,No,35733,160,93,0,37.3,0,no,southeast,1141.45
+868,Male,31,1,28,1,< 1 Year,No,24002,152,261,0,43.7,1,no,southwest,11576.13
+869,Female,42,1,3,0,1-2 Year,Yes,43811,154,243,0,23.7,0,no,northeast,13129.6
+870,Female,37,1,28,1,1-2 Year,No,48427,124,176,0,24.3,3,no,southwest,4391.65
+871,Female,40,1,30,1,1-2 Year,No,30719,152,261,0,36.2,0,no,southwest,8457.82
+872,Male,29,1,50,0,< 1 Year,Yes,32200,124,79,0,29.5,1,no,southeast,3392.37
+873,Male,34,1,41,1,1-2 Year,Yes,36264,26,241,0,24.9,0,no,southeast,5966.89
+874,Female,65,1,30,1,1-2 Year,Yes,2630,157,125,0,30.1,1,no,southwest,6849.03
+875,Male,73,1,48,0,1-2 Year,Yes,2630,15,94,0,21.9,3,no,northeast,8891.14
+876,Female,22,1,32,1,< 1 Year,No,35727,152,116,0,28.1,0,no,northwest,2690.11
+877,Male,50,1,28,1,1-2 Year,No,45072,26,65,0,27.1,1,no,southwest,26140.36
+878,Male,30,1,28,1,1-2 Year,Yes,2630,157,127,0,33.4,5,no,southeast,6653.79
+879,Female,52,1,11,0,1-2 Year,Yes,2630,156,195,0,28.8,1,no,southwest,6282.24
+880,Male,63,1,28,1,1-2 Year,Yes,65387,26,146,0,29.5,2,no,southwest,6311.95
+881,Female,47,1,28,1,1-2 Year,No,32752,26,105,0,34.8,3,no,southwest,3443.06
+882,Male,34,1,45,0,1-2 Year,Yes,2630,156,223,1,27.4,1,no,northwest,2789.06
+883,Male,54,1,9,0,> 2 Years,Yes,40603,31,161,1,22.1,0,no,northeast,2585.85
+884,Male,83,1,41,1,1-2 Year,No,40935,124,166,0,37.1,3,yes,northeast,46255.11
+885,Male,72,1,28,0,1-2 Year,No,60923,124,179,0,26.7,4,no,northwest,4877.98
+886,Female,25,1,34,0,< 1 Year,Yes,2630,152,46,0,28.9,1,yes,southeast,19719.69
+887,Male,57,1,28,0,1-2 Year,Yes,39067,26,134,0,29,0,yes,northeast,27218.44
+888,Male,54,1,28,0,1-2 Year,Yes,36574,26,66,0,30,0,no,northwest,5272.18
+889,Male,24,1,41,1,< 1 Year,No,33243,152,33,0,39.5,0,no,southwest,1682.6
+890,Female,25,1,22,1,< 1 Year,No,29364,152,88,0,33.6,1,no,northwest,11945.13
+891,Female,77,1,3,0,1-2 Year,Yes,40743,26,65,0,26.9,0,yes,northwest,29330.98
+892,Female,24,1,8,1,< 1 Year,No,33324,152,83,0,29,4,no,southeast,7243.81
+893,Male,45,1,3,1,1-2 Year,Yes,31641,124,183,0,24,0,no,northeast,10422.92
+894,Male,26,1,14,1,< 1 Year,No,2630,152,137,0,38.9,2,yes,southeast,44202.65
+895,Female,29,1,41,0,< 1 Year,Yes,2630,121,166,1,32.1,0,no,northeast,13555
+896,Male,47,1,41,0,1-2 Year,Yes,35297,124,74,1,44,0,no,southwest,13063.88
+897,Female,28,1,18,1,< 1 Year,No,38784,152,264,0,20,2,yes,northeast,19798.05
+898,Male,41,1,45,0,1-2 Year,Yes,26978,25,213,0,25.6,1,no,northwest,2221.56
+899,Male,24,1,28,0,1-2 Year,Yes,50974,124,266,0,40.3,0,no,southeast,1634.57
+900,Male,24,1,6,1,< 1 Year,Yes,29526,152,32,0,22.5,0,no,northwest,2117.34
+901,Female,28,1,2,1,< 1 Year,No,30514,152,65,0,22.5,0,no,northeast,8688.86
+902,Male,24,1,36,0,< 1 Year,No,30983,152,67,0,40.9,0,yes,southeast,48673.56
+903,Male,49,1,45,0,1-2 Year,Yes,27937,124,132,0,27.3,3,no,northeast,4661.29
+904,Female,51,1,50,0,< 1 Year,Yes,45869,122,100,0,36.9,0,no,southeast,8125.78
+905,Female,69,1,28,0,1-2 Year,No,46732,13,259,0,35.1,0,no,southwest,12644.59
+906,Female,22,1,36,1,< 1 Year,Yes,2630,160,106,0,29.4,2,no,northeast,4564.19
+907,Male,44,1,28,0,1-2 Year,Yes,35482,26,59,0,32.6,3,no,northeast,4846.92
+908,Male,35,1,27,0,1-2 Year,Yes,22791,156,36,0,32.3,1,no,southeast,7633.72
+909,Male,30,1,38,1,1-2 Year,No,25412,124,175,0,39.8,3,no,southwest,15170.07
+910,Female,36,1,33,0,1-2 Year,Yes,2630,160,180,0,24.6,0,yes,southwest,17496.31
+911,Female,21,1,28,0,< 1 Year,Yes,32733,152,145,0,28.3,1,no,northwest,2639.04
+912,Male,72,1,28,0,> 2 Years,Yes,54468,122,129,1,31.7,0,yes,northeast,33732.69
+913,Male,22,1,46,1,< 1 Year,No,21470,152,182,0,26.7,3,no,northwest,14382.71
+914,Female,25,1,35,1,< 1 Year,No,31745,152,242,0,27.5,1,no,southwest,7626.99
+915,Male,49,1,7,0,1-2 Year,No,36497,4,252,0,24.6,2,no,northwest,5257.51
+916,Female,31,1,29,1,< 1 Year,No,25259,152,42,0,34,0,no,southeast,2473.33
+917,Male,24,1,15,0,< 1 Year,Yes,27709,152,64,0,26.9,0,yes,northwest,21774.32
+918,Female,47,1,8,0,1-2 Year,Yes,32305,26,80,0,22.9,0,yes,northeast,35069.37
+919,Male,32,1,28,0,1-2 Year,Yes,2630,124,227,1,28.2,0,no,southwest,13041.92
+920,Male,42,1,8,1,1-2 Year,No,28725,26,284,0,34.2,1,no,southeast,5245.23
+921,Female,70,1,6,1,1-2 Year,No,25776,124,105,0,25,0,no,southwest,13451.12
+922,Male,59,1,26,1,1-2 Year,No,47831,22,274,0,33.2,0,no,southwest,13462.52
+923,Male,24,1,8,1,< 1 Year,No,29817,152,88,0,31,1,no,southwest,5488.26
+924,Male,25,1,15,1,< 1 Year,No,30587,152,49,0,35.8,0,no,northwest,4320.41
+925,Male,37,1,18,0,1-2 Year,Yes,53672,154,32,1,23.2,0,no,southwest,6250.44
+926,Male,22,1,28,1,< 1 Year,No,33860,152,247,0,32.1,2,no,northeast,25333.33
+927,Female,26,1,14,1,< 1 Year,No,42792,152,86,0,23.4,2,no,southwest,2913.57
+928,Female,81,1,28,1,1-2 Year,No,38673,26,36,0,20.1,1,no,southwest,12032.33
+929,Female,64,1,28,0,1-2 Year,Yes,54624,26,17,0,39.2,0,no,southeast,13470.8
+930,Female,31,1,12,0,1-2 Year,Yes,2630,26,186,0,34.2,1,no,southeast,6289.75
+931,Female,51,1,28,0,1-2 Year,Yes,37564,26,252,1,46.5,1,no,southeast,2927.06
+932,Female,25,1,47,0,< 1 Year,Yes,57180,154,205,1,32.5,1,no,southwest,6238.3
+933,Male,25,1,28,1,< 1 Year,No,54611,152,231,0,25.8,5,no,southwest,10096.97
+934,Female,22,1,41,1,< 1 Year,No,21700,152,124,0,35.3,0,no,southwest,7348.14
+935,Female,42,1,15,0,1-2 Year,Yes,27103,124,175,0,37.2,2,no,southeast,4673.39
+936,Female,23,1,36,1,< 1 Year,No,34976,152,100,0,27.5,0,no,southwest,12233.83
+937,Female,66,1,28,0,1-2 Year,Yes,35154,122,160,0,29.7,2,no,northeast,32108.66
+938,Male,64,1,25,0,> 2 Years,Yes,25272,26,91,0,24.2,5,no,northwest,8965.8
+939,Female,43,1,16,1,1-2 Year,No,34518,152,219,0,26.2,2,no,southeast,2304
+940,Male,25,1,2,0,< 1 Year,No,27134,152,65,0,29.5,0,no,southeast,9487.64
+941,Male,50,1,28,0,1-2 Year,Yes,26968,122,17,0,23.2,0,no,southeast,1121.87
+942,Male,35,1,8,1,1-2 Year,No,37449,124,70,0,46.1,1,no,southeast,9549.57
+943,Female,42,1,28,0,1-2 Year,Yes,43878,26,59,0,40.2,0,no,northeast,2217.47
+944,Female,25,1,36,0,< 1 Year,Yes,29430,152,271,0,22.6,0,no,northwest,1628.47
+945,Female,22,1,7,0,< 1 Year,Yes,49396,160,133,0,39.9,0,no,southeast,12982.87
+946,Female,42,1,28,1,1-2 Year,No,23211,26,113,0,35.8,1,no,southwest,11674.13
+947,Male,22,1,15,1,< 1 Year,No,38356,152,258,0,35.8,2,no,southwest,7160.09
+948,Female,22,1,37,0,< 1 Year,Yes,30266,160,88,0,34.2,1,yes,northeast,39047.29
+949,Male,20,1,36,0,< 1 Year,Yes,41945,160,50,0,31.3,0,no,northwest,6358.78
+950,Female,46,1,26,0,1-2 Year,Yes,2630,157,142,1,29.7,3,yes,southwest,19933.46
+951,Female,22,1,45,1,< 1 Year,No,21280,152,45,0,18.3,0,no,northeast,11534.87
+952,Female,22,1,26,1,< 1 Year,No,33459,152,153,0,42.9,2,yes,southeast,47462.89
+953,Male,45,1,46,0,1-2 Year,Yes,13895,124,113,0,28.4,1,no,northwest,4527.18
+954,Female,23,1,28,0,< 1 Year,Yes,65093,152,240,0,30.2,2,yes,southwest,38998.55
+955,Male,57,1,39,0,1-2 Year,Yes,2630,124,49,0,27.8,1,yes,northwest,20009.63
+956,Male,20,1,11,1,< 1 Year,No,29587,160,187,0,39.5,1,no,southeast,3875.73
+957,Male,50,1,15,0,1-2 Year,Yes,33666,124,242,1,30.8,1,yes,southeast,41999.52
+958,Female,28,1,30,0,< 1 Year,Yes,30354,26,232,0,26.8,1,no,northwest,12609.89
+959,Male,36,1,29,0,> 2 Years,Yes,28075,156,230,0,35,1,yes,northeast,41034.22
+960,Female,21,1,45,0,< 1 Year,Yes,27546,160,279,0,36.7,1,no,northwest,28468.92
+961,Female,20,1,30,1,< 1 Year,No,35192,160,25,0,39.6,1,no,northwest,2730.11
+962,Male,23,1,41,1,< 1 Year,No,32978,152,112,0,25.9,0,no,southwest,3353.28
+963,Female,22,1,46,1,< 1 Year,No,59086,152,238,0,35.2,1,no,southeast,14474.68
+964,Male,33,1,15,1,< 1 Year,No,35268,152,268,0,24.8,3,no,northeast,9500.57
+965,Male,35,1,46,0,1-2 Year,Yes,23146,124,268,0,36.8,2,no,northwest,26467.1
+966,Female,25,1,8,1,< 1 Year,No,36341,152,65,0,27.1,1,no,southwest,4746.34
+967,Female,27,1,8,0,< 1 Year,No,42963,152,175,0,24.8,2,yes,northwest,23967.38
+968,Male,47,1,3,0,1-2 Year,Yes,24495,7,284,0,25.4,1,no,northwest,7518.03
+969,Female,25,1,12,1,< 1 Year,No,23262,152,69,0,25.7,2,no,northeast,3279.87
+970,Male,33,1,36,0,1-2 Year,Yes,26910,124,31,0,34.3,5,no,southeast,8596.83
+971,Male,34,1,28,0,1-2 Year,Yes,31177,26,103,1,28.2,3,no,southeast,10702.64
+972,Male,52,1,28,0,1-2 Year,Yes,50851,124,285,1,23.6,0,no,northeast,4992.38
+973,Male,32,1,8,1,< 1 Year,No,30505,152,181,0,20.2,0,no,northwest,2527.82
+974,Male,40,1,8,0,1-2 Year,No,49097,26,208,0,40.5,0,no,southwest,1759.34
+975,Male,57,1,46,0,1-2 Year,Yes,2630,11,269,0,35.4,0,no,southeast,2322.62
+976,Female,23,1,46,0,< 1 Year,Yes,47385,152,277,0,22.9,0,yes,northeast,16138.76
+977,Male,33,1,10,1,< 1 Year,No,21928,152,58,0,40.2,0,no,southeast,7804.16
+978,Female,67,1,28,0,1-2 Year,Yes,2630,42,138,0,29.2,1,no,southeast,2902.91
+979,Female,33,1,46,0,1-2 Year,Yes,2630,156,116,1,40,3,no,northeast,9704.67
+980,Male,48,1,27,0,1-2 Year,Yes,32645,152,182,0,29.9,0,no,southeast,4889.04
+981,Male,35,1,32,0,1-2 Year,Yes,34062,163,236,1,25.5,1,no,northeast,25517.11
+982,Male,38,1,36,0,1-2 Year,Yes,37742,26,295,1,21.4,0,no,northeast,4500.34
+983,Male,24,1,17,1,< 1 Year,No,29625,83,286,0,25.9,3,yes,southwest,19199.94
+984,Female,23,1,47,0,< 1 Year,No,29431,151,257,0,30.6,1,no,northeast,16796.41
+985,Male,23,1,16,0,< 1 Year,Yes,2630,152,126,1,30.1,5,no,northeast,4915.06
+986,Female,25,1,46,1,< 1 Year,No,20804,152,204,0,25.8,1,no,southwest,7624.63
+987,Female,23,1,16,1,< 1 Year,No,2630,26,145,0,30.1,3,no,northwest,8410.05
+988,Male,23,1,47,1,< 1 Year,No,31231,152,175,0,27.6,1,no,northwest,28340.19
+989,Male,48,1,3,0,1-2 Year,Yes,32485,124,12,1,34.7,0,no,northeast,4518.83
+990,Female,51,1,28,1,1-2 Year,No,37768,25,69,0,20.5,0,yes,northeast,14571.89
+991,Female,43,1,3,0,1-2 Year,Yes,30437,26,208,0,19.8,1,no,southwest,3378.91
+992,Male,66,1,3,1,1-2 Year,No,2630,26,240,0,27.8,2,no,northeast,7144.86
+993,Female,25,1,3,1,< 1 Year,No,22102,152,163,0,31.6,2,no,southwest,10118.42
+994,Female,27,1,10,1,< 1 Year,No,30517,152,125,0,28.3,1,no,southeast,5484.47
+995,Female,58,1,28,0,1-2 Year,Yes,42064,26,163,0,20,3,yes,northwest,16420.49
+996,Female,25,1,35,1,< 1 Year,No,41195,152,148,0,23.3,3,no,northeast,7986.48
+997,Male,31,1,28,1,< 1 Year,No,38881,152,120,0,34.1,3,no,southwest,7418.52
+998,Male,31,1,41,0,< 1 Year,Yes,18987,152,100,1,36.9,0,no,southeast,13887.97
+999,Female,43,1,28,0,1-2 Year,Yes,55924,26,216,1,36.3,3,no,northeast,6551.75
+1000,Female,21,1,46,1,< 1 Year,No,29298,160,37,0,26.9,0,no,northwest,5267.82
+1001,Male,49,1,18,0,1-2 Year,Yes,47406,26,212,0,23,2,yes,northwest,17361.77
+1002,Female,26,1,28,1,< 1 Year,No,43080,152,76,0,32.7,0,yes,southwest,34472.84
+1003,Female,26,1,28,1,< 1 Year,No,51451,152,30,0,25.8,0,no,southwest,1972.95
+1004,Female,25,1,41,1,< 1 Year,No,23420,152,90,0,29.6,0,no,southwest,21232.18
+1005,Male,49,1,5,0,1-2 Year,Yes,36205,26,281,0,19.2,1,no,northeast,8627.54
+1006,Female,23,1,41,0,< 1 Year,Yes,46543,152,36,0,31.7,2,no,northwest,4433.39
+1007,Male,54,1,48,0,1-2 Year,Yes,2630,124,254,0,29.3,2,no,northeast,4438.26
+1008,Male,23,1,28,0,< 1 Year,Yes,65040,26,55,1,28.2,3,yes,northwest,24915.22
+1009,Female,54,1,28,0,> 2 Years,Yes,49985,157,295,0,25,2,no,northeast,23241.47
+1010,Female,42,1,33,1,1-2 Year,No,31856,152,186,0,27.7,1,no,northeast,9957.72
+1011,Male,53,1,28,0,1-2 Year,Yes,48625,124,13,0,22.8,0,no,southwest,8269.04
+1012,Female,24,1,8,1,< 1 Year,No,44095,152,63,0,20.1,2,yes,southeast,18767.74
+1013,Female,47,1,20,0,1-2 Year,Yes,2630,26,227,1,33.3,4,no,southeast,36580.28
+1014,Female,67,1,28,1,1-2 Year,Yes,37809,124,294,0,32.3,1,no,northwest,8765.25
+1015,Male,27,1,50,1,< 1 Year,No,21844,152,17,0,27.6,0,no,southwest,5383.54
+1016,Male,49,1,3,0,1-2 Year,Yes,40065,26,267,0,25.5,0,no,northwest,12124.99
+1017,Female,24,1,11,1,< 1 Year,No,21837,152,95,0,24.6,1,no,northwest,2709.24
+1018,Male,32,1,41,1,< 1 Year,No,26466,152,25,0,34.2,2,no,southwest,3987.93
+1019,Female,39,1,8,0,1-2 Year,Yes,2630,19,102,0,35.8,3,no,northwest,12495.29
+1020,Female,45,1,28,0,1-2 Year,Yes,45878,26,127,1,32.7,2,no,northwest,26018.95
+1021,Female,34,1,28,1,1-2 Year,No,36282,155,190,0,37,0,no,southwest,8798.59
+1022,Female,61,1,28,0,1-2 Year,Yes,54320,26,20,0,31,3,yes,southeast,35595.59
+1023,Male,45,1,50,1,1-2 Year,Yes,26717,30,221,0,36.1,1,yes,southeast,42211.14
+1024,Female,71,1,28,1,1-2 Year,No,40980,122,255,0,23.3,1,no,southeast,1711.03
+1025,Female,22,1,28,0,1-2 Year,Yes,2630,124,117,0,45.3,1,no,southeast,8569.86
+1026,Female,25,1,33,1,< 1 Year,No,33951,152,206,0,34.6,0,no,southwest,2020.18
+1027,Male,45,1,46,0,1-2 Year,Yes,25738,124,155,0,26,1,yes,northwest,16450.89
+1028,Male,30,1,3,0,< 1 Year,Yes,22419,152,90,0,18.7,0,no,northwest,21595.38
+1029,Female,27,1,15,1,< 1 Year,No,31022,152,39,0,31.6,0,no,southwest,9850.43
+1030,Female,62,1,28,0,1-2 Year,Yes,37684,13,73,0,17.3,2,no,northeast,6877.98
+1031,Male,47,1,28,0,1-2 Year,Yes,45821,124,44,0,23.7,1,yes,northwest,21677.28
+1032,Male,38,1,28,0,> 2 Years,Yes,43607,124,62,0,35.2,0,yes,southeast,44423.8
+1033,Male,53,1,28,0,> 2 Years,Yes,68850,154,39,0,27.9,0,no,northeast,4137.52
+1034,Female,22,1,28,1,< 1 Year,No,29540,152,122,0,21.6,0,yes,northeast,13747.87
+1035,Male,45,1,29,0,1-2 Year,Yes,42124,26,71,1,38.4,0,no,northwest,12950.07
+1036,Male,21,1,37,1,< 1 Year,Yes,29537,160,243,0,23,3,no,southwest,12094.48
+1037,Female,21,1,41,0,1-2 Year,Yes,27381,124,292,0,37.1,2,yes,southeast,37484.45
+1038,Female,28,1,28,1,< 1 Year,No,45896,152,215,0,30.5,1,yes,northwest,39725.52
+1039,Male,41,1,50,0,1-2 Year,Yes,37067,152,124,0,28.9,0,no,northeast,2250.84
+1040,Female,22,1,8,0,< 1 Year,Yes,33829,152,168,0,27.3,2,no,northwest,22493.66
+1041,Male,41,1,15,0,1-2 Year,Yes,2630,157,232,0,28,0,yes,northwest,20234.85
+1042,Male,38,1,22,0,1-2 Year,Yes,54790,124,164,0,23.1,0,no,northeast,1704.7
+1043,Female,26,1,21,1,< 1 Year,No,29505,152,28,0,30.7,0,yes,northeast,33475.82
+1044,Male,28,1,9,0,1-2 Year,Yes,31804,157,124,1,25.8,0,no,southwest,3161.45
+1045,Female,65,1,28,1,1-2 Year,No,48784,26,288,0,35.2,1,no,northeast,11394.07
+1046,Male,39,1,30,1,1-2 Year,No,28982,124,89,0,24.7,2,yes,northwest,21880.82
+1047,Male,27,1,45,1,< 1 Year,Yes,24301,152,102,0,25.1,0,no,northeast,7325.05
+1048,Female,50,1,11,0,1-2 Year,Yes,35427,124,237,1,52.6,1,yes,southeast,44501.4
+1049,Male,47,1,28,1,1-2 Year,No,35116,61,38,0,22.5,1,no,northwest,3594.17
+1050,Male,65,1,41,0,1-2 Year,Yes,41305,26,230,0,30.9,0,yes,southwest,39727.61
+1051,Male,24,1,7,1,< 1 Year,No,36284,152,99,0,37,1,no,northwest,8023.14
+1052,Female,48,1,18,0,1-2 Year,Yes,33361,124,289,0,26.4,0,no,northeast,14394.56
+1053,Female,53,1,28,1,1-2 Year,No,31164,13,202,0,29.8,1,no,northeast,9288.03
+1054,Male,53,1,3,0,1-2 Year,Yes,18090,26,85,1,29.8,3,yes,southwest,25309.49
+1055,Female,42,1,35,1,1-2 Year,No,2630,152,57,0,21.5,0,no,northwest,3353.47
+1056,Female,23,1,18,1,< 1 Year,No,26583,152,54,0,27.6,0,no,northwest,10594.5
+1057,Female,31,1,28,0,< 1 Year,Yes,38865,26,157,0,28.9,0,no,southwest,8277.52
+1058,Male,50,1,47,0,1-2 Year,Yes,39197,124,295,0,31.8,0,no,southeast,17929.3
+1059,Male,40,1,20,1,1-2 Year,No,2630,124,165,0,39.5,0,no,southeast,2480.98
+1060,Male,30,1,41,0,< 1 Year,Yes,42814,152,144,0,33.8,1,no,northwest,4462.72
+1061,Male,21,1,30,1,< 1 Year,No,31543,152,192,0,32,0,no,southeast,1981.58
+1062,Male,71,0,3,0,1-2 Year,No,25323,26,179,0,27.9,1,no,southeast,11554.22
+1063,Female,24,1,25,1,< 1 Year,No,42342,152,147,0,41.1,1,yes,southeast,48970.25
+1064,Male,72,1,9,0,1-2 Year,No,25026,26,187,0,28.6,3,no,northwest,6548.2
+1065,Female,24,1,50,1,< 1 Year,No,22267,152,231,0,25.6,4,no,southwest,5708.87
+1066,Male,46,1,7,0,1-2 Year,Yes,42101,152,164,0,25.3,1,no,southwest,7045.5
+1067,Male,65,1,8,1,1-2 Year,No,2630,26,118,0,37.3,2,no,southeast,8978.19
+1068,Male,54,1,7,1,1-2 Year,No,37697,124,138,0,42.7,0,no,northeast,5757.41
+1069,Female,21,1,28,0,< 1 Year,Yes,60733,124,292,0,21.7,1,no,northwest,14349.85
+1070,Male,59,1,3,0,1-2 Year,No,2630,26,87,0,31.9,1,no,southeast,10928.85
+1071,Male,24,1,49,0,< 1 Year,Yes,27291,152,155,1,37.1,1,yes,southeast,39871.7
+1072,Female,22,1,8,0,< 1 Year,No,44879,160,247,0,31.4,0,no,northeast,13974.46
+1073,Male,44,1,28,0,1-2 Year,Yes,31494,124,204,0,31.3,0,no,northwest,1909.53
+1074,Male,50,1,48,1,1-2 Year,No,2630,26,114,0,28.9,2,no,northeast,12096.65
+1075,Female,21,1,28,1,< 1 Year,No,37386,152,275,0,18.3,0,no,northeast,13204.29
+1076,Female,34,1,8,0,1-2 Year,Yes,2630,124,57,0,29.6,1,no,southeast,4562.84
+1077,Female,69,1,28,0,> 2 Years,Yes,42340,26,40,0,32,1,no,southwest,8551.35
+1078,Female,21,1,30,0,< 1 Year,Yes,25024,160,20,0,26,0,no,northeast,2102.26
+1079,Male,25,1,28,0,1-2 Year,No,32174,26,239,0,31.7,0,yes,southeast,34672.15
+1080,Male,71,1,28,0,1-2 Year,Yes,67477,26,221,1,33.7,3,no,southeast,15161.53
+1081,Male,23,1,50,1,< 1 Year,No,45359,152,141,0,21.8,2,no,southeast,11884.05
+1082,Male,74,1,30,0,> 2 Years,Yes,34753,124,206,1,27.8,1,no,northwest,4454.4
+1083,Male,43,1,28,0,1-2 Year,Yes,29751,124,269,0,20,1,no,northwest,5855.9
+1084,Female,31,1,5,1,< 1 Year,No,35655,152,103,0,31.5,1,no,southwest,4076.5
+1085,Female,47,1,12,0,1-2 Year,Yes,27971,154,276,0,30.5,2,no,northwest,15019.76
+1086,Male,25,1,10,1,< 1 Year,No,22069,152,93,0,18.3,5,yes,southwest,19023.26
+1087,Female,27,1,12,1,< 1 Year,No,28210,152,33,0,29,0,no,northeast,10796.35
+1088,Female,33,1,33,1,< 1 Year,No,28238,152,231,0,31.5,0,no,northwest,11353.23
+1089,Female,68,1,47,1,1-2 Year,No,36077,16,130,0,47.7,1,no,southeast,9748.91
+1090,Female,41,1,35,0,1-2 Year,No,23041,124,176,0,22.1,0,no,southwest,10577.09
+1091,Male,62,1,8,0,1-2 Year,Yes,28505,7,123,0,36.2,0,yes,southeast,41676.08
+1092,Female,22,1,41,1,< 1 Year,No,36997,152,25,0,29.8,0,no,northeast,11286.54
+1093,Female,32,1,46,1,1-2 Year,No,19107,124,220,0,32.7,3,no,southwest,3591.48
+1094,Male,43,1,31,0,1-2 Year,Yes,2630,124,114,0,30.4,0,yes,northwest,33907.55
+1095,Female,24,1,50,1,< 1 Year,No,26717,152,296,0,33.7,4,no,southwest,11299.34
+1096,Male,77,1,7,0,1-2 Year,Yes,36581,124,191,0,31.4,4,no,northeast,4561.19
+1097,Male,61,1,49,1,1-2 Year,No,23580,26,290,0,35,2,yes,northeast,44641.2
+1098,Male,43,1,28,0,1-2 Year,Yes,52520,124,63,0,33.8,0,no,southeast,1674.63
+1099,Female,45,1,28,0,1-2 Year,Yes,40525,26,174,0,30.9,0,no,northeast,23045.57
+1100,Male,27,1,35,1,< 1 Year,No,30996,152,226,0,34,1,no,southeast,3227.12
+1101,Female,42,1,21,0,1-2 Year,No,30377,152,252,0,19.1,2,yes,northeast,16776.3
+1102,Female,61,1,11,0,1-2 Year,Yes,28484,120,23,0,28.6,3,no,southwest,11253.42
+1103,Female,27,1,28,1,< 1 Year,No,27632,152,218,0,38.9,1,no,southeast,3471.41
+1104,Male,23,1,46,1,< 1 Year,No,31870,151,254,0,36.1,0,no,southeast,11363.28
+1105,Female,47,1,28,0,1-2 Year,Yes,28815,26,97,1,29.8,0,no,southwest,20420.6
+1106,Female,33,1,28,1,1-2 Year,No,32211,124,242,0,31.2,0,no,southeast,10338.93
+1107,Female,77,1,28,0,1-2 Year,Yes,47544,26,45,0,29.9,0,no,northwest,8988.16
+1108,Male,33,1,41,1,< 1 Year,No,32985,152,40,0,26.2,2,no,northwest,10493.95
+1109,Female,25,1,25,1,< 1 Year,No,28122,152,171,0,30,1,no,southwest,2904.09
+1110,Male,56,1,28,1,1-2 Year,No,2630,26,242,0,20.4,3,no,southeast,8605.36
+1111,Male,26,1,30,1,< 1 Year,No,18212,152,26,0,32.3,1,no,northeast,11512.41
+1112,Male,24,1,36,1,< 1 Year,No,34727,152,75,0,38.4,3,yes,southeast,41949.24
+1113,Male,21,1,8,0,< 1 Year,Yes,48914,160,57,0,25.9,3,yes,southeast,24180.93
+1114,Male,38,1,28,0,1-2 Year,Yes,32338,124,259,0,26.3,3,no,northwest,5312.17
+1115,Male,22,1,8,0,< 1 Year,Yes,2630,160,211,0,24.5,0,no,northeast,2396.1
+1116,Male,50,1,8,1,1-2 Year,No,39267,26,174,0,32.7,1,no,southeast,10807.49
+1117,Female,61,1,28,1,1-2 Year,No,2630,26,226,0,29.6,5,no,northeast,9222.4
+1118,Female,23,1,27,0,< 1 Year,Yes,38228,160,198,0,33.3,2,yes,southeast,36124.57
+1119,Male,23,1,28,0,< 1 Year,Yes,66952,26,167,0,35.8,1,yes,southeast,38282.75
+1120,Male,32,1,41,1,< 1 Year,No,40287,152,248,0,20,3,no,northwest,5693.43
+1121,Male,26,1,36,1,< 1 Year,No,2630,152,138,0,31.4,0,yes,southwest,34166.27
+1122,Female,26,1,51,1,< 1 Year,No,2630,160,245,0,38.2,2,no,southeast,8347.16
+1123,Female,24,1,32,0,< 1 Year,Yes,33896,152,295,0,36.9,3,yes,northwest,46661.44
+1124,Male,70,1,8,0,1-2 Year,Yes,29174,26,222,0,32.4,1,no,northeast,18903.49
+1125,Female,26,1,6,1,< 1 Year,No,19814,152,81,0,42.8,1,yes,northeast,40904.2
+1126,Male,52,1,22,0,1-2 Year,Yes,30642,8,148,1,25.1,0,no,northwest,14254.61
+1127,Male,33,1,24,0,< 1 Year,Yes,2630,156,120,1,29.9,0,no,southwest,10214.64
+1128,Female,27,1,8,1,< 1 Year,No,35169,152,203,0,35.9,2,no,southeast,5836.52
+1129,Female,23,1,8,1,< 1 Year,No,40813,152,276,0,32.8,1,no,southwest,14358.36
+1130,Female,64,1,28,0,1-2 Year,Yes,2630,156,155,0,18.6,0,no,southwest,1728.9
+1131,Male,48,1,28,0,1-2 Year,Yes,21877,124,109,0,23.9,5,no,southeast,8582.3
+1132,Female,41,1,8,0,1-2 Year,No,42356,124,115,0,45.9,2,no,southwest,3693.43
+1133,Male,52,1,50,1,1-2 Year,No,37981,8,272,0,40.3,0,no,northeast,20709.02
+1134,Female,25,1,28,0,< 1 Year,Yes,23752,152,151,1,18.3,0,no,northwest,9991.04
+1135,Female,61,1,8,0,1-2 Year,Yes,2630,26,283,0,33.8,0,no,northwest,19673.34
+1136,Male,22,1,8,1,< 1 Year,No,25266,26,188,0,28.1,3,no,northwest,11085.59
+1137,Male,68,1,11,0,1-2 Year,Yes,33639,124,180,0,25,1,no,southwest,7623.52
+1138,Female,23,1,6,1,< 1 Year,No,13636,152,163,0,22.2,0,no,northwest,3176.29
+1139,Female,38,1,24,1,1-2 Year,No,20761,152,92,0,30.3,0,no,southeast,3704.35
+1140,Female,27,1,29,1,< 1 Year,No,30006,152,110,0,32.5,0,yes,northwest,36898.73
+1141,Female,43,1,28,1,1-2 Year,No,139130,122,28,0,37.1,1,no,southeast,9048.03
+1142,Female,36,1,8,0,1-2 Year,Yes,57831,26,221,0,32.6,3,no,southwest,7954.52
+1143,Male,23,1,11,1,< 1 Year,No,31897,152,138,0,24.9,0,no,southeast,27117.99
+1144,Female,45,1,48,0,1-2 Year,Yes,2630,157,171,1,32.3,2,no,southeast,6338.08
+1145,Male,43,1,28,0,1-2 Year,Yes,22441,26,83,0,32.3,2,no,southwest,9630.4
+1146,Male,42,1,28,0,1-2 Year,Yes,25231,13,246,0,32.8,3,no,northwest,11289.11
+1147,Male,23,1,39,0,< 1 Year,No,2630,152,293,0,32.8,0,yes,southwest,52590.83
+1148,Female,40,1,7,1,1-2 Year,No,2630,124,184,0,31.9,0,no,northwest,2261.57
+1149,Male,55,1,41,0,1-2 Year,Yes,22757,136,77,0,21.5,1,no,southwest,10791.96
+1150,Male,45,1,28,1,1-2 Year,No,2630,156,55,0,34.1,0,no,southwest,5979.73
+1151,Female,48,1,28,1,1-2 Year,No,43755,26,295,0,30.3,0,no,northeast,2203.74
+1152,Female,37,1,47,0,1-2 Year,No,41035,124,212,0,36.5,0,no,northwest,12235.84
+1153,Male,54,1,28,0,> 2 Years,Yes,37248,124,262,0,32.6,3,yes,southeast,40941.29
+1154,Male,36,1,39,0,1-2 Year,Yes,29846,26,47,1,35.8,1,no,northwest,5630.46
+1155,Female,46,1,28,0,1-2 Year,Yes,42666,26,259,0,27.9,4,no,northwest,11015.17
+1156,Female,21,1,17,0,< 1 Year,Yes,42852,152,200,0,22.1,3,no,northeast,7228.22
+1157,Male,45,1,7,0,1-2 Year,No,2630,26,97,0,44.9,0,yes,southeast,39722.75
+1158,Female,68,1,24,0,1-2 Year,Yes,33437,124,22,0,23.2,2,no,northwest,14426.07
+1159,Female,47,1,31,0,1-2 Year,Yes,2630,26,40,1,30.6,0,no,northeast,2459.72
+1160,Male,22,1,12,1,< 1 Year,No,30902,152,159,0,41.1,0,no,southwest,3989.84
+1161,Male,24,1,36,0,< 1 Year,No,29653,152,159,0,34.6,1,no,northwest,7727.25
+1162,Female,21,1,12,0,< 1 Year,Yes,2630,152,149,0,42.1,2,no,southeast,5124.19
+1163,Male,50,1,28,0,1-2 Year,Yes,40768,124,94,0,38.8,1,no,southeast,18963.17
+1164,Male,28,1,27,1,< 1 Year,No,25757,152,129,0,28.2,0,no,northeast,2200.83
+1165,Male,40,1,28,1,1-2 Year,No,58145,124,172,0,28.3,1,no,northwest,7153.55
+1166,Male,36,1,18,0,1-2 Year,No,2630,124,212,1,26.1,0,no,northeast,5227.99
+1167,Male,24,1,34,0,< 1 Year,No,29619,151,100,0,40.4,0,no,southeast,10982.5
+1168,Male,33,1,28,0,1-2 Year,Yes,28902,124,220,1,24.6,2,no,southwest,4529.48
+1169,Female,58,1,28,0,1-2 Year,Yes,40773,26,166,0,35.2,2,no,southwest,4670.64
+1170,Female,21,1,46,1,< 1 Year,No,48452,160,111,0,34.1,1,no,northwest,6112.35
+1171,Male,45,1,20,0,1-2 Year,Yes,2630,124,123,0,27.4,1,yes,northeast,17178.68
+1172,Male,42,1,28,0,> 2 Years,Yes,36553,26,259,0,26.7,2,yes,southwest,22478.6
+1173,Male,68,1,2,1,1-2 Year,No,34796,26,170,0,41.9,0,no,southeast,11093.62
+1174,Female,27,1,41,1,< 1 Year,No,41109,152,34,0,29.3,2,no,northwest,6457.84
+1175,Male,24,1,13,0,< 1 Year,No,23564,152,45,0,32.1,2,no,northwest,4433.92
+1176,Male,36,1,28,0,1-2 Year,Yes,60320,124,21,0,27.1,0,no,southwest,2154.36
+1177,Male,59,1,26,0,> 2 Years,Yes,38063,22,283,0,24.1,1,yes,northwest,23887.66
+1178,Female,21,1,30,1,< 1 Year,No,27662,152,16,0,27.4,1,no,southwest,6496.89
+1179,Female,66,1,46,1,1-2 Year,No,33671,124,177,0,34.9,0,no,northeast,2899.49
+1180,Male,75,1,28,1,1-2 Year,No,31290,124,157,0,29.8,0,yes,southeast,19350.37
+1181,Female,67,1,37,0,1-2 Year,Yes,42448,156,180,1,41.3,1,no,northeast,7650.77
+1182,Female,24,1,30,1,< 1 Year,No,33522,152,188,0,29.9,0,no,northwest,2850.68
+1183,Female,53,1,8,0,1-2 Year,Yes,51134,152,149,0,30.3,0,no,southwest,2632.99
+1184,Female,31,1,28,0,< 1 Year,Yes,28921,124,264,1,27.4,1,no,northeast,9447.38
+1185,Female,24,1,15,0,< 1 Year,Yes,47809,152,24,0,28.5,1,yes,southeast,18328.24
+1186,Male,27,1,8,0,< 1 Year,Yes,33975,152,298,0,23.6,2,no,northeast,8603.82
+1187,Male,59,1,28,1,1-2 Year,No,36629,120,263,0,35.6,3,yes,northwest,37465.34
+1188,Male,28,1,11,1,< 1 Year,No,2630,160,156,0,32.7,0,no,northwest,13844.8
+1189,Female,39,1,28,0,> 2 Years,Yes,34874,26,70,1,25.3,1,yes,northeast,21771.34
+1190,Male,42,1,36,0,1-2 Year,Yes,51383,26,126,0,28,0,no,southwest,13126.68
+1191,Female,22,1,8,1,< 1 Year,No,45841,152,48,0,32.8,2,no,northwest,5327.4
+1192,Male,21,1,37,0,< 1 Year,Yes,29314,160,210,0,21.8,1,no,northeast,13725.47
+1193,Male,39,1,19,1,1-2 Year,No,26368,124,207,0,32.4,1,no,northeast,13019.16
+1194,Male,56,1,8,0,1-2 Year,Yes,35429,124,259,0,36.6,0,no,northwest,8671.19
+1195,Male,46,1,28,0,1-2 Year,Yes,47144,26,84,0,21.8,0,no,northwest,4134.08
+1196,Female,23,1,32,1,< 1 Year,No,33613,151,219,0,27.9,3,no,northwest,18838.7
+1197,Male,28,1,11,0,< 1 Year,Yes,2630,124,221,1,30,0,yes,northwest,33307.55
+1198,Female,26,1,37,0,< 1 Year,Yes,31602,152,280,0,33.6,0,no,southeast,5699.84
+1199,Female,22,1,37,0,< 1 Year,Yes,32373,160,219,0,29.4,1,no,northwest,6393.6
+1200,Male,41,1,28,0,1-2 Year,Yes,98002,52,44,0,25.8,2,no,southwest,4934.71
+1201,Male,23,1,8,1,< 1 Year,No,51281,152,148,0,24.3,2,no,northwest,6198.75
+1202,Female,59,1,28,0,1-2 Year,Yes,37871,26,127,0,40.4,2,no,northwest,8733.23
+1203,Male,26,1,8,1,< 1 Year,No,51556,152,295,0,32.1,0,no,northwest,2055.32
+1204,Female,25,1,8,1,< 1 Year,No,41939,152,167,0,32.3,1,no,northeast,9964.06
+1205,Male,23,1,50,1,< 1 Year,No,28016,152,131,0,27.3,3,yes,southeast,18223.45
+1206,Female,26,1,17,1,< 1 Year,No,20416,152,143,0,17.9,1,no,northwest,5116.5
+1207,Male,29,1,41,1,< 1 Year,No,29620,152,145,0,34.8,2,no,southwest,36910.61
+1208,Female,21,1,41,1,< 1 Year,No,27094,152,299,0,33.4,2,yes,southwest,38415.47
+1209,Male,21,1,28,1,< 1 Year,No,63440,152,164,0,25.6,1,yes,northeast,20296.86
+1210,Female,26,1,21,1,< 1 Year,No,33002,152,20,0,37.1,1,no,southwest,12347.17
+1211,Male,42,1,28,1,1-2 Year,No,34454,154,179,0,30.9,1,no,northwest,5373.36
+1212,Male,49,1,28,1,1-2 Year,Yes,2630,26,150,0,34.1,2,no,southeast,23563.02
+1213,Female,56,1,28,0,1-2 Year,Yes,28268,26,170,1,21.5,0,no,northeast,1702.46
+1214,Male,65,1,28,1,1-2 Year,Yes,67117,26,182,0,33.3,2,no,southwest,10806.84
+1215,Female,27,1,3,1,< 1 Year,No,2630,152,83,0,31.3,1,no,northwest,3956.07
+1216,Male,50,1,17,0,1-2 Year,Yes,37489,26,36,0,39.1,0,no,northeast,12890.06
+1217,Female,21,1,4,0,< 1 Year,Yes,2630,160,208,0,25.1,0,no,southeast,5415.66
+1218,Male,40,1,41,1,1-2 Year,No,2630,26,233,0,37.3,2,no,southeast,4058.12
+1219,Male,59,1,46,0,1-2 Year,No,29034,26,283,0,34.6,1,yes,southwest,41661.6
+1220,Male,51,1,15,0,1-2 Year,Yes,32420,154,281,0,30.2,3,no,northwest,7537.16
+1221,Female,22,1,15,1,< 1 Year,Yes,42142,152,182,0,21.9,1,no,northeast,4718.2
+1222,Male,23,1,50,0,< 1 Year,No,39583,151,128,0,25,2,no,southeast,6593.51
+1223,Female,24,1,15,1,< 1 Year,No,28883,152,249,0,25.3,0,no,southeast,8442.67
+1224,Female,62,1,28,0,> 2 Years,Yes,41904,26,35,1,24.4,0,yes,southeast,26125.67
+1225,Male,24,1,28,0,< 1 Year,Yes,43900,152,270,1,23.9,1,no,northeast,6858.48
+1226,Female,20,1,2,0,< 1 Year,Yes,30476,124,281,0,39.8,1,no,southeast,4795.66
+1227,Female,25,1,37,0,< 1 Year,No,27220,152,203,0,16.8,2,no,northeast,6640.54
+1228,Male,49,1,28,1,1-2 Year,No,33238,26,288,0,37.2,2,no,southeast,7162.01
+1229,Male,47,1,35,1,1-2 Year,No,41798,122,62,0,34.4,0,no,southeast,10594.23
+1230,Female,58,1,28,0,1-2 Year,Yes,47480,124,137,0,30.3,0,no,northeast,11938.26
+1231,Male,27,1,15,1,< 1 Year,No,2630,152,181,0,34.5,3,yes,northwest,60021.4
+1232,Female,23,1,6,1,< 1 Year,No,30404,152,145,0,21.8,0,yes,southwest,20167.34
+1233,Female,20,1,47,0,< 1 Year,Yes,46175,160,171,0,24.6,3,no,northwest,12479.71
+1234,Male,32,1,17,0,1-2 Year,Yes,41966,156,187,0,23.3,0,no,southwest,11345.52
+1235,Male,66,1,28,0,1-2 Year,Yes,64942,26,248,1,27.8,2,no,southeast,8515.76
+1236,Male,27,1,46,0,< 1 Year,Yes,2630,152,211,0,31.1,0,no,northwest,2699.57
+1237,Male,61,1,46,0,1-2 Year,Yes,24554,156,292,0,21.7,0,no,northeast,14449.85
+1238,Male,47,1,8,0,1-2 Year,Yes,34444,124,203,0,28.2,0,no,northwest,12224.35
+1239,Male,47,1,30,0,1-2 Year,Yes,30100,124,60,1,22.7,3,no,northeast,6985.51
+1240,Female,24,1,36,1,< 1 Year,No,32851,152,144,0,42.1,1,no,southeast,3238.44
+1241,Female,20,1,15,0,< 1 Year,Yes,34907,122,67,0,41.8,2,yes,southeast,47269.85
+1242,Female,57,1,40,0,1-2 Year,No,33701,26,257,0,37,2,yes,southeast,49577.66
+1243,Male,26,1,28,1,< 1 Year,No,39914,152,278,0,21.3,3,no,northwest,4296.27
+1244,Male,26,1,28,1,< 1 Year,Yes,2630,160,186,0,33.1,0,no,southeast,3171.61
+1245,Female,78,1,28,1,1-2 Year,No,45112,152,236,0,33.3,0,no,southeast,1135.94
+1246,Female,56,1,28,0,1-2 Year,Yes,2630,26,97,0,24.3,5,no,southwest,5615.37
+1247,Female,25,1,8,0,< 1 Year,Yes,38777,152,217,0,25.7,3,no,southwest,9101.8
+1248,Male,28,1,46,0,< 1 Year,No,22877,152,240,0,29.4,4,no,southwest,6059.17
+1249,Male,35,1,28,0,1-2 Year,Yes,35728,124,275,0,39.8,0,no,southeast,1633.96
+1250,Male,32,1,6,1,< 1 Year,No,22707,152,200,0,33.6,1,yes,northeast,37607.53
+1251,Female,45,1,6,1,1-2 Year,No,31331,26,189,0,29.8,0,yes,northeast,18648.42
+1252,Male,36,1,28,0,1-2 Year,Yes,50127,55,64,0,19.8,0,no,southwest,1241.57
+1253,Male,22,1,2,0,< 1 Year,Yes,30074,152,151,0,27.3,0,yes,southwest,16232.85
+1254,Male,40,1,28,0,1-2 Year,Yes,30258,124,76,0,29.3,4,no,southwest,15828.82
+1255,Female,22,1,29,1,< 1 Year,No,48835,152,190,0,27.7,0,no,southeast,4415.16
+1256,Female,25,1,21,1,< 1 Year,No,30619,152,153,0,37.9,0,no,southwest,6474.01
+1257,Male,47,1,28,0,1-2 Year,Yes,55456,124,42,0,36.4,3,no,northwest,11436.74
+1258,Male,44,1,28,0,> 2 Years,Yes,42522,26,174,0,27.6,1,no,northwest,11305.93
+1259,Male,25,1,28,1,< 1 Year,No,26289,152,255,0,37.7,3,no,northwest,30063.58
+1260,Male,41,1,39,0,1-2 Year,Yes,2630,124,120,0,23.2,0,no,northeast,10197.77
+1261,Female,26,1,33,1,< 1 Year,No,31930,152,70,0,20.5,0,no,northeast,4544.23
+1262,Female,22,1,15,0,< 1 Year,Yes,26947,160,131,0,37.1,1,no,southwest,3277.16
+1263,Female,20,1,15,1,< 1 Year,Yes,2630,160,253,0,28.1,1,no,southeast,6770.19
+1264,Male,38,1,28,0,1-2 Year,Yes,18906,24,136,1,29.9,1,no,southwest,7337.75
+1265,Female,50,1,33,0,1-2 Year,Yes,28259,26,252,0,33.3,2,no,northeast,10370.91
+1266,Male,37,1,27,1,1-2 Year,No,34545,124,299,0,23.8,0,yes,southeast,26926.51
+1267,Male,56,1,28,0,1-2 Year,Yes,40756,124,128,0,30.5,0,no,southwest,10704.47
+1268,Female,48,1,8,1,1-2 Year,No,52396,26,138,0,31.1,0,yes,northeast,34254.05
+1269,Male,34,1,11,1,1-2 Year,Yes,30707,124,284,0,33.3,0,no,southwest,1880.49
+1270,Male,59,1,28,0,1-2 Year,Yes,61464,26,141,1,27.5,3,no,southwest,8615.3
+1271,Female,28,1,49,1,< 1 Year,No,2630,152,269,0,33.9,1,no,northwest,3292.53
+1272,Male,21,1,3,0,< 1 Year,Yes,23485,160,249,0,34.5,0,no,northwest,3021.81
+1273,Female,23,1,41,1,< 1 Year,No,43838,152,232,0,25.5,5,no,southeast,14478.33
+1274,Female,34,1,8,1,1-2 Year,No,32602,152,143,0,27.6,1,no,southeast,4747.05
+1275,Female,28,1,45,0,< 1 Year,No,24443,152,236,0,27.1,0,yes,southeast,17043.34
+1276,Female,21,1,15,0,< 1 Year,Yes,39508,160,206,0,23.7,0,no,southwest,10959.33
+1277,Male,62,1,26,0,1-2 Year,Yes,29337,26,275,0,30.4,0,no,northeast,2741.95
+1278,Male,31,1,30,0,< 1 Year,Yes,22917,152,92,0,29.7,0,no,northwest,4357.04
+1279,Male,50,1,46,0,1-2 Year,Yes,28375,124,175,0,29.9,1,yes,northeast,22462.04
+1280,Male,24,1,8,1,< 1 Year,No,48904,152,262,0,26.8,2,no,northwest,4189.11
+1281,Female,42,1,28,0,1-2 Year,Yes,29080,124,113,0,33.3,0,no,southeast,8283.68
+1282,Female,72,1,8,1,1-2 Year,No,28884,26,150,0,27.6,2,yes,northwest,24535.7
+1283,Female,20,1,46,1,< 1 Year,No,34027,160,119,0,21.7,0,yes,northeast,14283.46
+1284,Female,49,1,46,1,1-2 Year,No,2630,124,288,0,30,1,no,southeast,1720.35
+1285,Female,22,1,50,1,< 1 Year,No,33248,152,209,0,36.3,1,yes,southwest,47403.88
+1286,Female,27,1,30,1,< 1 Year,No,18455,152,124,0,24.3,0,no,northeast,8534.67
+1287,Female,44,1,50,0,1-2 Year,Yes,2630,18,79,0,17.3,0,no,northeast,3732.63
+1288,Male,45,1,18,1,1-2 Year,Yes,2630,124,173,0,25.9,1,no,southwest,5472.45
+1289,Female,47,1,28,0,1-2 Year,Yes,42740,56,250,0,39.4,2,yes,southwest,38344.57
+1290,Male,31,1,28,0,< 1 Year,Yes,37288,124,224,0,34.3,1,no,southeast,7147.47
+1291,Male,57,1,27,0,1-2 Year,No,28650,26,48,0,20,2,no,northeast,7133.9
+1292,Female,24,1,2,0,< 1 Year,Yes,42160,152,220,0,34.9,0,yes,southwest,34828.65
+1293,Female,55,1,50,0,1-2 Year,Yes,2630,160,258,0,23.2,0,no,southeast,1515.34
+1294,Female,26,1,29,1,< 1 Year,No,25989,152,204,0,25.7,3,no,northwest,9301.89
+1295,Male,28,1,8,1,< 1 Year,No,45121,152,94,0,25.2,0,no,northeast,11931.13
+1296,Male,54,1,28,1,1-2 Year,No,45765,124,109,0,22,1,no,southwest,1964.78
+1297,Male,30,1,28,1,1-2 Year,No,42271,26,102,0,26.1,0,no,northeast,1708.93
+1298,Male,24,1,6,1,< 1 Year,No,41830,160,105,0,26.5,2,no,southeast,4340.44
+1299,Female,35,1,3,0,1-2 Year,Yes,2630,156,38,1,27.5,2,no,northwest,5261.47
+1300,Male,45,1,24,0,1-2 Year,Yes,34243,26,149,0,25.7,1,no,northwest,2710.83
+1301,Male,59,1,29,0,1-2 Year,Yes,33708,26,205,1,30.4,0,yes,southeast,62592.87
+1302,Male,27,1,41,0,< 1 Year,Yes,49635,160,73,0,30.9,3,yes,northwest,46718.16
+1303,Male,42,1,8,0,1-2 Year,No,2630,26,99,0,20.8,1,no,southwest,3208.79
+1304,Female,23,1,6,1,< 1 Year,No,21571,152,263,0,27.8,0,yes,southwest,37829.72
+1305,Female,27,1,16,1,< 1 Year,No,33869,152,43,0,24.6,2,yes,northeast,21259.38
+1306,Female,33,1,8,1,< 1 Year,No,2630,152,221,0,27.7,0,no,southeast,2464.62
+1307,Female,56,1,28,0,> 2 Years,Yes,47123,26,56,1,21.9,0,yes,northeast,16115.3
+1308,Male,23,1,8,0,< 1 Year,Yes,37969,152,143,0,28.1,4,yes,northwest,21472.48
+1309,Male,49,1,28,0,1-2 Year,Yes,31342,26,20,1,30.2,0,yes,southwest,33900.65
+1310,Male,24,1,15,1,< 1 Year,No,28674,152,95,0,32.2,2,no,southwest,6875.96
+1311,Male,24,1,8,1,< 1 Year,No,37769,152,146,0,26.3,1,no,northwest,6940.91
+1312,Male,63,1,28,0,1-2 Year,Yes,57914,42,168,0,26.7,0,no,northwest,4571.41
+1313,Female,48,1,28,0,1-2 Year,Yes,33117,122,100,0,42.9,1,no,southwest,4536.26
+1314,Female,21,1,16,0,< 1 Year,Yes,25176,160,235,0,34.7,2,yes,southwest,36397.58
+1315,Male,63,1,38,1,1-2 Year,No,34050,124,187,0,23.7,3,yes,northwest,18765.88
+1316,Female,45,1,8,1,1-2 Year,No,41648,152,242,0,28.3,1,no,northeast,11272.33
+1317,Male,57,1,41,0,1-2 Year,Yes,27691,26,142,0,20.6,0,no,southwest,1731.68
+1318,Male,28,1,30,1,< 1 Year,Yes,2630,152,176,0,53.1,0,no,southeast,1163.46
+1319,Female,29,1,28,0,< 1 Year,No,33603,152,198,0,39.7,4,no,northeast,19496.72
+1320,Female,21,1,41,1,< 1 Year,No,31791,160,99,0,26.3,2,no,northwest,7201.7
+1321,Female,45,1,47,0,1-2 Year,Yes,39378,124,238,0,31.1,3,no,northwest,5425.02
+1322,Female,42,1,24,0,1-2 Year,Yes,43056,26,95,0,26.7,0,yes,northeast,28101.33
+1323,Male,22,1,47,1,< 1 Year,Yes,2630,160,88,0,38.8,0,no,southeast,12981.35
+1324,Female,44,1,2,0,1-2 Year,Yes,2630,157,35,0,40.4,2,yes,southeast,43896.38
+1325,Female,24,1,28,0,< 1 Year,Yes,46711,26,242,0,25.9,1,no,northwest,4239.89
+1326,Female,24,1,8,1,< 1 Year,No,45304,151,211,0,33.5,0,no,northeast,13143.34
+1327,Male,33,1,24,0,1-2 Year,Yes,32839,154,138,0,32.9,0,no,northeast,7050.02
+1328,Female,41,1,23,0,1-2 Year,Yes,29729,124,268,0,30,1,no,southeast,9377.9
+1329,Male,44,1,22,0,1-2 Year,Yes,18740,124,29,0,24.2,2,no,northeast,22395.74
+1330,Female,24,1,41,0,< 1 Year,Yes,31522,152,173,1,38.6,2,no,southwest,10325.21
+1331,Female,74,1,15,1,1-2 Year,No,33357,14,264,0,25.7,2,no,southeast,12629.17
+1332,Female,37,1,6,1,1-2 Year,No,28657,152,264,0,33.4,0,no,southwest,10795.94
+1333,Male,45,1,8,1,1-2 Year,No,28167,7,44,0,44.7,3,no,southwest,11411.69
+1334,Female,58,1,28,0,1-2 Year,Yes,35616,122,126,0,31,3,no,northwest,10600.55
+1335,Male,24,1,18,0,< 1 Year,Yes,29498,152,59,0,31.9,0,no,northeast,2205.98
+1336,Female,30,1,26,1,< 1 Year,No,26130,151,251,0,36.9,0,no,southeast,1629.83
+1337,Female,58,1,21,1,1-2 Year,No,2630,160,298,0,25.8,0,no,southwest,2007.95
+1338,Female,25,1,14,1,< 1 Year,No,22008,152,190,0,29.1,0,yes,northwest,29141.36

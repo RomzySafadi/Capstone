@@ -1,0 +1,26 @@
+services:
+  server:
+    build: server
+    image: server   
+    ports:
+      - "8000:8000"
+      - "54321:54321"
+    volumes:
+      - ./server:/app/server
+    networks:
+      - project_network
+
+  client:
+    build: client
+    image: client
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./client:/app/client
+    depends_on: 
+    - server
+    networks:
+      - project_network
+
+networks:
+  project_network:
