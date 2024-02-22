@@ -5,7 +5,10 @@ This repo is for a group project done for Northwestern University's Master's of 
 https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction/data
 https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction/data 
 
-The project currently is a MVP, not production quality. Further work would be required in error handling, UI refinements, observability, etc. for more real world use case. 
+The project currently is a MVP, not production quality. Further work would be required in error handling, UI refinements, CI/CD, observability, etc. for more real world use case. 
+
+## Dashboard
+An interactive Tableau dashboard was created. Creation of a free Tableau public account is required. Dashboard is [here](https://public.tableau.com/app/profile/ash.vaid/viz/498-capstone-2024-q1/Dashboard1#2).
 
 # Running locally
 
