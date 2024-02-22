@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction/data
 The project currently is a MVP, not production quality. Further work would be required in error handling, UI refinements, CI/CD, observability, etc. for more real world use case. 
 
 ## Dashboard
-An interactive Tableau dashboard was created. Creation of a free Tableau public account is required. Dashboard is [here](https://public.tableau.com/app/profile/ash.vaid/viz/498-capstone-2024-q1/Dashboard1#2).
+An interactive Tableau dashboard was created. Dashboard is [here](https://public.tableau.com/app/profile/ash.vaid/viz/498-capstone-2024-q1/Dashboard1#2).
 
 # Running locally
 
